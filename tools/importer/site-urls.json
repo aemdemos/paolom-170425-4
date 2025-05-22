@@ -1,0 +1,1746 @@
+{
+  "originUrl": "https://meusensia.com.br",
+  "lastCrawled": "https://meusensia.com.br",
+  "urls": [
+    {
+      "url": "https://31ot59x3g81.typeform.com/to/hDAyB1Cj",
+      "source": "SITEMAPS",
+      "targetPath": "/to/hdayb1cj",
+      "id": "a02f6bd396b337407fc3dbd30f7576bbd2a39b9e"
+    },
+    {
+      "url": "https://api.whatsapp.com/send?phone=5531991841438&amp;text=Oi%21+Gostaria+de+mais+informa%C3%A7%C3%B5es+sobre+os+im%C3%B3veis+Sensia.",
+      "source": "SITEMAPS",
+      "targetPath": "/send",
+      "id": "369b3488da213c144cecbcd2f624fca44fcc46ce"
+    },
+    {
+      "url": "https://api.whatsapp.com/send?phone=5531991841438&amp;text=Ol%C3%A1%20gostaria%20de%20saber%20mais%20sobre%20os%20im%C3%B3veis%20Sensia%20em%20Belo%20Horizonte.",
+      "source": "SITEMAPS",
+      "targetPath": "/send",
+      "id": "818d1424acc7ab55e12d58cbaa20635137b15d05"
+    },
+    {
+      "url": "https://api.whatsapp.com/send?phone=5531991841438&text=Ol%C3%A1!%20Tenho%20interesse%20em%20um%20Sensia!%20",
+      "source": "SITEMAPS",
+      "targetPath": "/send",
+      "id": "0478c1b6c5950b0c7655010a48854b799344fdd9"
+    },
+    {
+      "url": "https://api.whatsapp.com/send?phone=5544999689823&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20o%20Sensia%20Aurora",
+      "source": "SITEMAPS",
+      "targetPath": "/send",
+      "id": "fe2df38cf68bc1b6dc3692dd459d8f47ffd277eb"
+    },
+    {
+      "url": "https://api.whatsapp.com/send?phone=5571981540069&amp;text=Ol%C3%A1%2C%20recebi%20um%20SMS%20com%20convite%20para%20um%20caf%C3%A9%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20im%C3%B3veis%20Sensia.",
+      "source": "SITEMAPS",
+      "targetPath": "/send",
+      "id": "28822e24f542c3e7f89310c176336bd87d46db98"
+    },
+    {
+      "url": "https://api.whatsapp.com/send/?phone=%2B5519994915995&text=Ol%C3%A1%2C+recebi+um+SMS+sobre+o+Sensia+em+Campinas++e+gostaria+de+saber+mais&type=phone_number&app_absent=0",
+      "source": "SITEMAPS",
+      "targetPath": "/send",
+      "id": "3e2336bc95edde62a78c555b632040cd9973b68c"
+    },
+    {
+      "url": "https://api.whatsapp.com/send/?phone=%2B5531991841438&text=Ol%C3%A1%2C+recebi+um+SMS+e+gostaria+de+saber+mais+do+evento+exclusivo+do+pr%C3%B3ximo+s%C3%A1bado&type=phone_number&app_absent=0",
+      "source": "SITEMAPS",
+      "targetPath": "/send",
+      "id": "775ffc3060fd7a2f8bc9431ef9e1f74605590eb3"
+    },
+    {
+      "url": "https://api.whatsapp.com/send/?phone=%2B5531991841438&text=Recebi+um+SMS+sobre+o+lan%C3%A7amento+da+Fase+II+do+Sensia+Solarium+e+queria+saber+mais+informa%C3%A7%C3%B5es.&type=phone_number&app_absent=0",
+      "source": "SITEMAPS",
+      "targetPath": "/send",
+      "id": "30e023d04ea89a0323b018ba56c0d6d44377a7fb"
+    },
+    {
+      "url": "https://api.whatsapp.com/send/?phone=%2B5571981540069&text=Ol%C3%A1%2C+gostaria+de+saber+mais+sobre+o+evento.&type=phone_number&app_absent=0",
+      "source": "SITEMAPS",
+      "targetPath": "/send",
+      "id": "fe9c2a567da567288d1e9c1ce0fd4e0dfb3be200"
+    },
+    {
+      "url": "https://api.whatsapp.com/send/?phone=5511999705832&text=Ol%C3%A1%2C+recebi+um+SMS+e+gostaria+de+ter+mais+informa%C3%A7%C3%B5es+sobre+a+Sensia&type=phone_number&app_absent=0",
+      "source": "SITEMAPS",
+      "targetPath": "/send",
+      "id": "7692f539711dfc2f30b0cf6b244a3a206bde6496"
+    },
+    {
+      "url": "https://api.whatsapp.com/send/?phone=5516982260280&text=Gostaria+de+saber+mais+informacoes+dos+imoveis+Sensia.&type=phone_number&app_absent=0",
+      "source": "SITEMAPS",
+      "targetPath": "/send",
+      "id": "f723cb0d9709bff18e6336591dba504679fd911a"
+    },
+    {
+      "url": "https://api.whatsapp.com/send/?phone=5516982440803&text=Ol%C3%A1%2C+recebi+um+SMS+e+gostaria+de+ter+mais+informa%C3%A7%C3%B5es+sobre+a+Sensia&type=phone_number&app_absent=0",
+      "source": "SITEMAPS",
+      "targetPath": "/send",
+      "id": "f720636e4992b55a7d637dd86883c1c415e0dfe5"
+    },
+    {
+      "url": "https://api.whatsapp.com/send/?phone=5519991682417&text=Ol%C3%A1%2C+recebi+um+SMS+e+gostaria+de+ter+mais+informa%C3%A7%C3%B5es+sobre+a+Sensia&type=phone_number&app_absent=0",
+      "source": "SITEMAPS",
+      "targetPath": "/send",
+      "id": "cb5f2082a2c7c9579b4f72541c5ab399402baa74"
+    },
+    {
+      "url": "https://api.whatsapp.com/send/?phone=5519994915995&text=Ol%C3%A1%2C+recebi+um+SMS+e+gostaria+de+ter+mais+informa%C3%A7%C3%B5es+sobre+a+Sensia&type=phone_number&app_absent=0",
+      "source": "SITEMAPS",
+      "targetPath": "/send",
+      "id": "9993367792f1c6c288b30b28270254d77762f494"
+    },
+    {
+      "url": "https://api.whatsapp.com/send/?phone=5519994915995&text=Recebi+uma+SMS+e+quero+saber+mais+sobre+o+ITBI+e+Registro+gr%C3%A1tis+no+Sensia+Taquaral.&type=phone_number&app_absent=0",
+      "source": "SITEMAPS",
+      "targetPath": "/send",
+      "id": "f64c39b2f95fdde582cf2ec41094d7095310f577"
+    },
+    {
+      "url": "https://api.whatsapp.com/send/?phone=5519994915995&text=Recebi+uma+SMS+sobre+a+Rodada+de+Neg%C3%B3cios+e+gostaria+de+saber+mais.&type=phone_number&app_absent=0",
+      "source": "SITEMAPS",
+      "targetPath": "/send",
+      "id": "5f1ee520b891e7c1e253a5d304d4f5730f26f7c8"
+    },
+    {
+      "url": "https://api.whatsapp.com/send/?phone=5522974001865&text=Ol%C3%A1%2C+recebi+um+SMS+e+gostaria+de+ter+mais+informa%C3%A7%C3%B5es+sobre+a+Sensia&type=phone_number&app_absent=0",
+      "source": "SITEMAPS",
+      "targetPath": "/send",
+      "id": "9ce0f24bc91882549c2cdc4d76a8a58747ebad65"
+    },
+    {
+      "url": "https://api.whatsapp.com/send/?phone=5522974001865&text=Ola%2C+recebi+SMS+da+Sensia+com++condi%C3%A7%C3%B5es+exclusivas%2C++para+alunos+de+Beach+Tennis%21&type=phone_number&app_absent=0",
+      "source": "SITEMAPS",
+      "targetPath": "/send",
+      "id": "c3419a054998404010d38f8090eef0bd2d982cf5"
+    },
+    {
+      "url": "https://api.whatsapp.com/send/?phone=5522974001865&text=Ola%2C+recebi+SMS+da+Sensia+com+as+condi%C3%A7%C3%B5es+exclusivas%2C++para+alunos+da+academia+Pimenta%21&type=phone_number&app_absent=0",
+      "source": "SITEMAPS",
+      "targetPath": "/send",
+      "id": "f056d17e8c912f482821fa8f4de97b5b0534aa68"
+    },
+    {
+      "url": "https://api.whatsapp.com/send/?phone=5522974001865&text=Ola%2C+recebi+SMS+do+Sensia+Barra%2C+com+as+condi%C3%A7%C3%B5es+do+m%C3%AAs+de+outubro%2C+quero+saber+mais%21&type=phone_number&app_absent=0",
+      "source": "SITEMAPS",
+      "targetPath": "/send",
+      "id": "7ae6faf0d663b90b68c20a127c5d0efadf84109d"
+    },
+    {
+      "url": "https://api.whatsapp.com/send/?phone=5522974001865&text=Ola%2Crecebi+SMS+da+Sensia%2C+sou+aluno+de+Beach+tennis+Nadal%2C+quero+saber+mais%21&type=phone_number&app_absent=0",
+      "source": "SITEMAPS",
+      "targetPath": "/send",
+      "id": "a41a47d83eff29904b551b00e3f0fd40c07dc7a6"
+    },
+    {
+      "url": "https://api.whatsapp.com/send/?phone=553175778000&amp;text=Ol%C3%A1%21+Quero+receber+informa%C3%A7%C3%B5es+sobre+um+im%C3%B3vel+Sensia.",
+      "source": "SITEMAPS",
+      "targetPath": "/send",
+      "id": "5f588cf71db2fe163a7a734f012d660fe1017c33"
+    },
+    {
+      "url": "https://api.whatsapp.com/send/?phone=553175778000&amp;text=Ol%C3%A1%2C%20recebi%20um%20sms%20e%20quero%20saber%20mais%20sobre%20os%20im%C3%B3veis%20%C3%A0%20venda%20de%20Sensia&amp;utm_source=sms&amp;utm_medium=sms&amp;utm_campaign=900_BRNAC0_SMS_P_SEMEMP_031024_S_IN_PR_Sms1TestA",
+      "source": "SITEMAPS",
+      "targetPath": "/send",
+      "id": "b1fa16326cd98a952893fd7898cae2f7b9494379"
+    },
+    {
+      "url": "https://api.whatsapp.com/send/?phone=553175778000&amp;text=Ol%C3%A1%2C%20recebi%20um%20sms%20e%20quero%20saber%20mais%20sobre%20os%20im%C3%B3veis%20%C3%A0%20venda%20de%20Sensia&amp;utm_source=sms&amp;utm_medium=sms&amp;utm_campaign=900_BRNAC0_SMS_P_SEMEMP_031024_S_IN_PR_Sms1TestB",
+      "source": "SITEMAPS",
+      "targetPath": "/send",
+      "id": "71c7a603a39d3b627d0221af5a1acefe8ec05ac7"
+    },
+    {
+      "url": "https://api.whatsapp.com/send/?phone=553175778000&amp;text=Ol%C3%A1%2C%20recebi%20um%20sms%20e%20quero%20saber%20mais%20sobre%20os%20im%C3%B3veis%20%C3%A0%20venda%20de%20Sensia&amp;utm_source=sms&amp;utm_medium=sms&amp;utm_campaign=900_BRNAC0_SMS_P_SEMEMP_031024_S_IN_PR_Sms4TestA",
+      "source": "SITEMAPS",
+      "targetPath": "/send",
+      "id": "59dd696f6cb092f1535faab1b994509cd8ce38a6"
+    },
+    {
+      "url": "https://api.whatsapp.com/send/?phone=553175778000&text=Ol%C3%A1%21+Quero+receber+informa%C3%A7%C3%B5es+sobre+um+im%C3%B3vel+Sensia.&type=phone_number&app_absent=0",
+      "source": "SITEMAPS",
+      "targetPath": "/send",
+      "id": "5dbe6e72f949e886a0537cbbaacf82529ca3eb33"
+    },
+    {
+      "url": "https://api.whatsapp.com/send/?phone=553175778000&text=Ol%C3%A1%2C+recebi+um+SMS+e+gostaria+de+ter+mais+informa%C3%A7%C3%B5es+sobre+a+Sensia&type=phone_number&app_absent=0",
+      "source": "SITEMAPS",
+      "targetPath": "/send",
+      "id": "ce1252025b535f6612f7d9211e68f30cd9e36dac"
+    },
+    {
+      "url": "https://api.whatsapp.com/send/?phone=5531991841438&text=Oi%21+Gostaria+de+mais+informa%C3%A7%C3%B5es+sobre+im%C3%B3veis+Sensia.&type=phone_number&app_absent=0",
+      "source": "SITEMAPS",
+      "targetPath": "/send",
+      "id": "f89f93ad9e3eb60687383ef94f1314a83c8b5bb1"
+    },
+    {
+      "url": "https://api.whatsapp.com/send/?phone=5531991841438&text=Ol%C3%A1%2C+recebi+um+E-mail+e+gostaria+de+ter+mais+informa%C3%A7%C3%B5es+sobre+a+Sensia&type=phone_number&app_absent=0",
+      "source": "SITEMAPS",
+      "targetPath": "/send",
+      "id": "46a6feee255afbae23e48eb02e82ce60ade5d8bf"
+    },
+    {
+      "url": "https://api.whatsapp.com/send/?phone=5531991841438&text=Ol%C3%A1%2C+recebi+um+SMS+e+gostaria+de+ter+mais+informa%C3%A7%C3%B5es+sobre+a+Sensia&type=phone_number&app_absent=0",
+      "source": "SITEMAPS",
+      "targetPath": "/send",
+      "id": "129d91a0347c4c58425add96b76965961c415f44"
+    },
+    {
+      "url": "https://api.whatsapp.com/send/?phone=5541992820535&text=Ol%C3%A1%2C+eu+estava+na+corrida+do+dia+24+e+gostaria+de+saber+mais+sobre+o+Sensia+Horizon.&type=phone_number&app_absent=0",
+      "source": "SITEMAPS",
+      "targetPath": "/send",
+      "id": "45f61e2958847b0f8368ef575a5bb5fbe01ce749"
+    },
+    {
+      "url": "https://api.whatsapp.com/send/?phone=5541992820535&text=Ol%C3%A1%2C+recebi+um+flyer+e+gostaria+de+mais+informa%C3%A7%C3%B5es+sobre+o+Sensia+Horizon.&type=phone_number&app_absent=0",
+      "source": "SITEMAPS",
+      "targetPath": "/send",
+      "id": "6075308ac572793090455b16e3ad7a8f05ffa825"
+    },
+    {
+      "url": "https://api.whatsapp.com/send/?phone=5541995354286&text=Ol%C3%A1%2C+recebi+um+SMS+e+gostaria+de+ter+mais+informa%C3%A7%C3%B5es+sobre+a+Sensia&type=phone_number&app_absent=0",
+      "source": "SITEMAPS",
+      "targetPath": "/send",
+      "id": "e0b90b2ac9992abd54eb0c433504a7dcce8bb766"
+    },
+    {
+      "url": "https://api.whatsapp.com/send/?phone=5543999816078&text=Ol%C3%A1%2C+recebi+um+SMS+e+gostaria+de+ter+mais+informa%C3%A7%C3%B5es+sobre+a+Sensia&type=phone_number&app_absent=0",
+      "source": "SITEMAPS",
+      "targetPath": "/send",
+      "id": "99ee633ef9174280fcab42b0afb6573304a976ce"
+    },
+    {
+      "url": "https://api.whatsapp.com/send/?phone=5544998341615&text=Ol%C3%A1%2C+recebi+um+SMS+e+gostaria+de+ter+mais+informa%C3%A7%C3%B5es+sobre+a+Sensia&type=phone_number&app_absent=0",
+      "source": "SITEMAPS",
+      "targetPath": "/send",
+      "id": "40e946475b241ad6d2756789aadeaa8bac1a8836"
+    },
+    {
+      "url": "https://api.whatsapp.com/send/?phone=5571981540069&amp;text=Ol%C3%A1,%20gostaria%20de%20reservar%20a%20minha%20presen%C3%A7a%20no%20evento.",
+      "source": "SITEMAPS",
+      "targetPath": "/send",
+      "id": "7424bad289d996b08f831786620d2030eaf055e4"
+    },
+    {
+      "url": "https://api.whatsapp.com/send/?phone=5571981540069&text=Ol%C3%A1%2C+recebi+um+SMS+e+gostaria+de+ter+mais+informa%C3%A7%C3%B5es+sobre+a+Sensia&type=phone_number&app_absent=0",
+      "source": "SITEMAPS",
+      "targetPath": "/send",
+      "id": "878f560dd969468df44828ca5554e9143a09937c"
+    },
+    {
+      "url": "https://api.whatsapp.com/send/?phone=5571988818888&text=Ol%C3%A1%2C+recebi+um+SMS+e+gostaria+de+ter+mais+informa%C3%A7%C3%B5es+sobre+a+Sensia&type=phone_number&app_absent=0",
+      "source": "SITEMAPS",
+      "targetPath": "/send",
+      "id": "8953ff5cf6b2e52e7b6eecbedbc5f1b3b5e00857"
+    },
+    {
+      "url": "https://api.whatsapp.com/send/?phone=5592996150218&text=Ol%C3%A1%2C++conheci+a+Sensia+na+Engenheiro+do+Caf%C3%A9%2C+gostaria+de+saber+mais+sobre+a+Black+November+Sensia+Ponta+Negra.&type=phone_number&app_absent=0",
+      "source": "SITEMAPS",
+      "targetPath": "/send",
+      "id": "3d413d071fa26cdf5795ba3293a50ac87a449022"
+    },
+    {
+      "url": "https://api.whatsapp.com/send/?phone=5592996150218&text=Ol%C3%A1%2C++gostaria+de+saber+mais+sobre+a+Black+November+Sensia+Ponta+Negra.&type=phone_number&app_absent=0",
+      "source": "SITEMAPS",
+      "targetPath": "/send",
+      "id": "b1c974d25f04b55d2094be13987a8c111ff9c8a4"
+    },
+    {
+      "url": "https://api.whatsapp.com/send/?phone=5592996150218&text=Ol%C3%A1%2C++Sou+Colaborador+Caloi%2C+gostaria+de+saber+mais+sobre+a+Black+November+Sensia+Ponta+Negra.&type=phone_number&app_absent=0",
+      "source": "SITEMAPS",
+      "targetPath": "/send",
+      "id": "ccc884648ba1ba325793ada35b86efc527c8101c"
+    },
+    {
+      "url": "https://api.whatsapp.com/send/?phone=5592996150218&text=Ol%C3%A1%2C+recebi+um+SMS+e+gostaria+de+ter+mais+informa%C3%A7%C3%B5es+sobre+a+Sensia&type=phone_number&app_absent=0",
+      "source": "SITEMAPS",
+      "targetPath": "/send",
+      "id": "6735bb518dcd6cbfa0bd35a58a25fec03fbd9cee"
+    },
+    {
+      "url": "https://api.whatsapp.com/send/?phone=5592996150218&text=Ola%2C+recebi+SMS+da+Sensia+com++condi%C3%A7%C3%B5es+exclusivas+de+outubro+para+Sensia+Ponta+Negra+.&type=phone_number&app_absent=0",
+      "source": "SITEMAPS",
+      "targetPath": "/send",
+      "id": "ac5489e2b5b3d3e20d06095741d95dcca4c55aad"
+    },
+    {
+      "url": "https://api.whatsapp.com/send/?phone=5592996150218&text=Ola+gostaria+de+saber+mais+sobre+sensia+e+sua+condi%C3%A7%C3%B5es+de+natal.&type=phone_number&app_absent=0",
+      "source": "SITEMAPS",
+      "targetPath": "/send",
+      "id": "f791c91d3f16c51a1a021fd3bcde612c5308981b"
+    },
+    {
+      "url": "https://api.whatsapp.com/send/?phone=5592996150218&text=Passei+no+Stand+da+Sensia+no+shopping+e+agora+gostaria+de+saber+mais+sobre+a+a%C3%A7%C3%A3o+compra+e+ganhe+30mil+em+voucher+de+compra+da+via+varejo.&type=phone_number&app_absent=0",
+      "source": "SITEMAPS",
+      "targetPath": "/send",
+      "id": "04b7b64d7defc2563956f0da221471f81da287a7"
+    },
+    {
+      "url": "https://meusensia.com.br/",
+      "source": "SITEMAPS",
+      "targetPath": "/index",
+      "id": "bd8168655f2525f2b798f1c874e740af03c08db0"
+    },
+    {
+      "url": "https://meusensia.com.br/ano/2024/",
+      "source": "SITEMAPS",
+      "targetPath": "/ano/2024",
+      "id": "0db23749000ab7176144d7e48733ebccbc06ef75"
+    },
+    {
+      "url": "https://meusensia.com.br/conheca-a-sensia/",
+      "source": "SITEMAPS",
+      "targetPath": "/conheca-a-sensia",
+      "id": "e563f5d91ac03a8a03c201d64a009584448b9736"
+    },
+    {
+      "url": "https://meusensia.com.br/contato-via-whatsapp/",
+      "source": "SITEMAPS",
+      "targetPath": "/contato-via-whatsapp",
+      "id": "9c2cd8a2e67e3ea6ead5cf21a5d5617067122644"
+    },
+    {
+      "url": "https://meusensia.com.br/fale-com-a-sensia/",
+      "source": "SITEMAPS",
+      "targetPath": "/fale-com-a-sensia",
+      "id": "d709fef64ce196da66ef58c499a492de05d7ff7f"
+    },
+    {
+      "url": "https://meusensia.com.br/imoveis/",
+      "source": "SITEMAPS",
+      "targetPath": "/imoveis",
+      "id": "ab5e40f1339b8ac31166cfa3449d7dc98330d097"
+    },
+    {
+      "url": "https://meusensia.com.br/imovel/botanico/",
+      "source": "SITEMAPS",
+      "targetPath": "/imovel/botanico",
+      "id": "336efd4e9fe1c458b42a4beec2f2efb1e2ef16e3"
+    },
+    {
+      "url": "https://meusensia.com.br/imovel/galleria/",
+      "source": "SITEMAPS",
+      "targetPath": "/imovel/galleria",
+      "id": "dbff99a20bfba9624229ff05f3acdb22fe2e863e"
+    },
+    {
+      "url": "https://meusensia.com.br/imovel/horizontes/",
+      "source": "SITEMAPS",
+      "targetPath": "/imovel/horizontes",
+      "id": "4226cbaf7a060c8270d967417b3bf3d4e71ca2f5"
+    },
+    {
+      "url": "https://meusensia.com.br/imovel/la-vie/",
+      "source": "SITEMAPS",
+      "targetPath": "/imovel/la-vie",
+      "id": "88bbe548f70c6d61bdb7c055015ab71aa7e44ff2"
+    },
+    {
+      "url": "https://meusensia.com.br/imovel/pampulha/",
+      "source": "SITEMAPS",
+      "targetPath": "/imovel/pampulha",
+      "id": "abd7bce5a1cdbc5b4a2b46cf730ed069e78f44ad"
+    },
+    {
+      "url": "https://meusensia.com.br/imovel/parque-prado/",
+      "source": "SITEMAPS",
+      "targetPath": "/imovel/parque-prado",
+      "id": "1bd765a18d7fff72ab2f6e6deed4e26b6d959212"
+    },
+    {
+      "url": "https://meusensia.com.br/imovel/ponta-negra/",
+      "source": "SITEMAPS",
+      "targetPath": "/imovel/ponta-negra",
+      "id": "9a181dec57fa7c47d247d1c62300547d961e8978"
+    },
+    {
+      "url": "https://meusensia.com.br/imovel/sensia-aurora/",
+      "source": "SITEMAPS",
+      "targetPath": "/imovel/sensia-aurora",
+      "id": "171cb781bd5dee424d40a1a8c02e5ce7fcaa8e49"
+    },
+    {
+      "url": "https://meusensia.com.br/imovel/sensia-barra/",
+      "source": "SITEMAPS",
+      "targetPath": "/imovel/sensia-barra",
+      "id": "0fca230c1189e338cb970046bf07db976af0f735"
+    },
+    {
+      "url": "https://meusensia.com.br/imovel/sensia-fiusa-view/",
+      "source": "SITEMAPS",
+      "targetPath": "/imovel/sensia-fiusa-view",
+      "id": "b7be63161ca9c88c2316102e5f801540a9e696d7"
+    },
+    {
+      "url": "https://meusensia.com.br/imovel/sensia-fiusa-view/?utm_source=Tapume&amp;utm_medium=Tapume2025&amp;utm_campaign=sensia_fiusa_lancamento&amp;utm_id=Tapume",
+      "source": "SITEMAPS",
+      "targetPath": "/imovel/sensia-fiusa-view",
+      "id": "595cc6973c6b6fe178e03c85e70650b87a2d1521"
+    },
+    {
+      "url": "https://meusensia.com.br/imovel/sensia-gran-bosque/",
+      "source": "SITEMAPS",
+      "targetPath": "/imovel/sensia-gran-bosque",
+      "id": "6f33ed8bcf4d35cfd50d5dc0226236fbdec06547"
+    },
+    {
+      "url": "https://meusensia.com.br/imovel/sensia-horizon/",
+      "source": "SITEMAPS",
+      "targetPath": "/imovel/sensia-horizon",
+      "id": "7e99741df4ae59a09b275295991582ee0701b789"
+    },
+    {
+      "url": "https://meusensia.com.br/imovel/sensia-jardim/",
+      "source": "SITEMAPS",
+      "targetPath": "/imovel/sensia-jardim",
+      "id": "15ea96e389006e57f6f5db045fcc41b2c1b999c3"
+    },
+    {
+      "url": "https://meusensia.com.br/imovel/sensia-paris/",
+      "source": "SITEMAPS",
+      "targetPath": "/imovel/sensia-paris",
+      "id": "332581fbf54af72d7a7bb91959517bed990a2390"
+    },
+    {
+      "url": "https://meusensia.com.br/imovel/sensia-patamares/",
+      "source": "SITEMAPS",
+      "targetPath": "/imovel/sensia-patamares",
+      "id": "47097570bf049360cc749e7ec11859930bb4011f"
+    },
+    {
+      "url": "https://meusensia.com.br/imovel/sensia-solarium/",
+      "source": "SITEMAPS",
+      "targetPath": "/imovel/sensia-solarium",
+      "id": "58826a210ff7a48f722a55ffec8c101805284a6c"
+    },
+    {
+      "url": "https://meusensia.com.br/imovel/sensia-swiss-garden/",
+      "source": "SITEMAPS",
+      "targetPath": "/imovel/sensia-swiss-garden",
+      "id": "6223d4a4001babb416edeb849eba7e0e059b5bb9"
+    },
+    {
+      "url": "https://meusensia.com.br/imovel/sensia-swiss-garden/?utm_source=Folder&utm_medium=Folder2025&utm_campaign=sensia_swiss_garden_lancamento&utm_id=Folder",
+      "source": "SITEMAPS",
+      "targetPath": "/imovel/sensia-swiss-garden",
+      "id": "4415772a9233fa3b171ac288495bc8164e86d57f"
+    },
+    {
+      "url": "https://meusensia.com.br/imovel/sensia-taquaral/",
+      "source": "SITEMAPS",
+      "targetPath": "/imovel/sensia-taquaral",
+      "id": "cc11183316da59cfc68d4c6585c7f5cef74a23a6"
+    },
+    {
+      "url": "https://meusensia.com.br/imovel/serra/",
+      "source": "SITEMAPS",
+      "targetPath": "/imovel/serra",
+      "id": "79a8a20c39a7d77bac4cde243c5dcaaa6047d43b"
+    },
+    {
+      "url": "https://meusensia.com.br/imovel/swiss-view/",
+      "source": "SITEMAPS",
+      "targetPath": "/imovel/swiss-view",
+      "id": "eca483de32dab56c58a44373d4460db7cc8bc9e0"
+    },
+    {
+      "url": "https://meusensia.com.br/imovel/urban/",
+      "source": "SITEMAPS",
+      "targetPath": "/imovel/urban",
+      "id": "bd396750eb68d205c11534ca226fe94fe85620e0"
+    },
+    {
+      "url": "https://meusensia.com.br/imovel/vila-do-sol/",
+      "source": "SITEMAPS",
+      "targetPath": "/imovel/vila-do-sol",
+      "id": "b36f7617da5af2e8693d7edf6855a8c168c5f7eb"
+    },
+    {
+      "url": "https://meusensia.com.br/imovel/vila-do-sol/?utm_source=sms&utm_medium=sms&utm_campaign=405_CEFORD8_SMS_P_A73E45_200624_S_IN_PR_rviladosol",
+      "source": "SITEMAPS",
+      "targetPath": "/imovel/vila-do-sol",
+      "id": "31f889ac2a65ed99a8aaf3b2f7b886f2474b9c22"
+    },
+    {
+      "url": "https://meusensia.com.br/imovel/way/",
+      "source": "SITEMAPS",
+      "targetPath": "/imovel/way",
+      "id": "644771c8196fb93e18e3ed1fee86bcc458550b55"
+    },
+    {
+      "url": "https://meusensia.com.br/investidores/",
+      "source": "SITEMAPS",
+      "targetPath": "/investidores",
+      "id": "3f94a53e1b1dba3cc314e9eeb6f72d6eb078fd71"
+    },
+    {
+      "url": "https://meusensia.com.br/loja/belo-horizonte-loja-1/",
+      "source": "SITEMAPS",
+      "targetPath": "/loja/belo-horizonte-loja-1",
+      "id": "afbf2d0b18ffd27c991e465ac030a9aeb3b73621"
+    },
+    {
+      "url": "https://meusensia.com.br/loja/belo-horizonte-loja-2/",
+      "source": "SITEMAPS",
+      "targetPath": "/loja/belo-horizonte-loja-2",
+      "id": "bd36806b2f7c866b65e9b4d40db5306e05c230aa"
+    },
+    {
+      "url": "https://meusensia.com.br/loja/belo-horizonte-loja-3/",
+      "source": "SITEMAPS",
+      "targetPath": "/loja/belo-horizonte-loja-3",
+      "id": "1c2fd9891bae6a789b1376deaadf23d7d0be2e86"
+    },
+    {
+      "url": "https://meusensia.com.br/loja/campinas-loja-swiss-park/",
+      "source": "SITEMAPS",
+      "targetPath": "/loja/campinas-loja-swiss-park",
+      "id": "e8adaf43768eea5d968e6401705f6e6e0fdef6ea"
+    },
+    {
+      "url": "https://meusensia.com.br/loja/campinas-pdx/",
+      "source": "SITEMAPS",
+      "targetPath": "/loja/campinas-pdx",
+      "id": "0e6eadf6a29fcc9dbab99782f136b6f297e6c6cf"
+    },
+    {
+      "url": "https://meusensia.com.br/loja/contagem-loja/",
+      "source": "SITEMAPS",
+      "targetPath": "/loja/contagem-loja",
+      "id": "bc07c82d2db03fdd2dddb2a3879908c563f6b62b"
+    },
+    {
+      "url": "https://meusensia.com.br/loja/curitiba-pdx/",
+      "source": "SITEMAPS",
+      "targetPath": "/loja/curitiba-pdx",
+      "id": "dfc32796b66cbdf10b8ec2d2433e912bf93fafc9"
+    },
+    {
+      "url": "https://meusensia.com.br/loja/fortaleza-loja/",
+      "source": "SITEMAPS",
+      "targetPath": "/loja/fortaleza-loja",
+      "id": "c8b938e37926c5ee533da2d445305a19f43d0621"
+    },
+    {
+      "url": "https://meusensia.com.br/loja/londrina-pdx/",
+      "source": "SITEMAPS",
+      "targetPath": "/loja/londrina-pdx",
+      "id": "46e5b591eb8e868766422b49e4f073c89ef019a4"
+    },
+    {
+      "url": "https://meusensia.com.br/loja/manaus-pdx/",
+      "source": "SITEMAPS",
+      "targetPath": "/loja/manaus-pdx",
+      "id": "dc7ec18f994ac273e97efcb58079f59771092af9"
+    },
+    {
+      "url": "https://meusensia.com.br/loja/maringa-pdx/",
+      "source": "SITEMAPS",
+      "targetPath": "/loja/maringa-pdx",
+      "id": "d06aeda35b2b0fb5471b1dcce8caa085a8864380"
+    },
+    {
+      "url": "https://meusensia.com.br/loja/ribeirao-preto-pdx/",
+      "source": "SITEMAPS",
+      "targetPath": "/loja/ribeirao-preto-pdx",
+      "id": "ef82d6ce568d1dc57e47840cc2fb3093171683dd"
+    },
+    {
+      "url": "https://meusensia.com.br/loja/rio-de-janeiro-pdx/",
+      "source": "SITEMAPS",
+      "targetPath": "/loja/rio-de-janeiro-pdx",
+      "id": "da5fde11d783d689a96e3eee68274dcc2970563b"
+    },
+    {
+      "url": "https://meusensia.com.br/loja/rio-de-janeiro-stand/",
+      "source": "SITEMAPS",
+      "targetPath": "/loja/rio-de-janeiro-stand",
+      "id": "7805958fb07957f81e9df02b4b2e90a176d0ca12"
+    },
+    {
+      "url": "https://meusensia.com.br/loja/salvador-loja/",
+      "source": "SITEMAPS",
+      "targetPath": "/loja/salvador-loja",
+      "id": "f6a4eddea35a0bffe98194cc6db3398479aa1890"
+    },
+    {
+      "url": "https://meusensia.com.br/lojas/",
+      "source": "SITEMAPS",
+      "targetPath": "/lojas",
+      "id": "1b1edaa1d807a7f82dcf6da008b0b4552c1ea55e"
+    },
+    {
+      "url": "https://meusensia.com.br/lojas/?utm_source=sms&utm_medium=sms&utm_campaign=106_AMMANA2_SMS_P_41757e_130924_S_IN_PR_lavielojaB",
+      "source": "SITEMAPS",
+      "targetPath": "/lojas",
+      "id": "0a5547e5962dfb9794350ebfce89539595cf11f5"
+    },
+    {
+      "url": "https://meusensia.com.br/lojas/?utm_source=sms&utm_medium=sms&utm_campaign=301_MGBEL5F_SMS_P_5a74f2_250724_S_IN_PR_lojapampA",
+      "source": "SITEMAPS",
+      "targetPath": "/lojas",
+      "id": "8bae6a47fe9c8eacae3828087c57b34eb2ac2898"
+    },
+    {
+      "url": "https://meusensia.com.br/lojas/?utm_source=sms&utm_medium=sms&utm_campaign=610_SPRIBD2_SMS_P_76ec70_130824_S_IN_PR_botloja",
+      "source": "SITEMAPS",
+      "targetPath": "/lojas",
+      "id": "644052f75e408eab3c061f428f4cfa1ee872c928"
+    },
+    {
+      "url": "https://meusensia.com.br/lojas/am/",
+      "source": "SITEMAPS",
+      "targetPath": "/lojas/am",
+      "id": "ec66d6b30743546517e621e9ce4a630cc9b17b71"
+    },
+    {
+      "url": "https://meusensia.com.br/lojas/am/manaus/",
+      "source": "SITEMAPS",
+      "targetPath": "/lojas/am/manaus",
+      "id": "f6404139b9cea04f675e1ba1e6174b4208d5a03e"
+    },
+    {
+      "url": "https://meusensia.com.br/lojas/ba/",
+      "source": "SITEMAPS",
+      "targetPath": "/lojas/ba",
+      "id": "7f9727e150940975357ff08a48d8811bc338a293"
+    },
+    {
+      "url": "https://meusensia.com.br/lojas/ba/salvador/",
+      "source": "SITEMAPS",
+      "targetPath": "/lojas/ba/salvador",
+      "id": "ac21d4ff63d476eb1739bf5ac9fae9664d97fe27"
+    },
+    {
+      "url": "https://meusensia.com.br/lojas/ce/",
+      "source": "SITEMAPS",
+      "targetPath": "/lojas/ce",
+      "id": "2e97a1fb3123a3caa5c3d4e1cebc2ea65e568ed6"
+    },
+    {
+      "url": "https://meusensia.com.br/lojas/ce/fortaleza/",
+      "source": "SITEMAPS",
+      "targetPath": "/lojas/ce/fortaleza",
+      "id": "5a416e4ce721cedf04ea7d22bbdb902bf6f09f2a"
+    },
+    {
+      "url": "https://meusensia.com.br/lojas/mg/",
+      "source": "SITEMAPS",
+      "targetPath": "/lojas/mg",
+      "id": "0934f001a436ec5deba84a0c440609d9a7f87365"
+    },
+    {
+      "url": "https://meusensia.com.br/lojas/mg/belo-horizonte/",
+      "source": "SITEMAPS",
+      "targetPath": "/lojas/mg/belo-horizonte",
+      "id": "eae559f3cd33d9016071800cccfa67fb642cebf5"
+    },
+    {
+      "url": "https://meusensia.com.br/lojas/mg/contagem/",
+      "source": "SITEMAPS",
+      "targetPath": "/lojas/mg/contagem",
+      "id": "e7a3b994995f979a5bde082204aa53157e36b9a5"
+    },
+    {
+      "url": "https://meusensia.com.br/lojas/pr/",
+      "source": "SITEMAPS",
+      "targetPath": "/lojas/pr",
+      "id": "58cfad5a4076053714628d578b9e2eabbf0fa71e"
+    },
+    {
+      "url": "https://meusensia.com.br/lojas/pr/curitiba/",
+      "source": "SITEMAPS",
+      "targetPath": "/lojas/pr/curitiba",
+      "id": "9c2d04c0af7ddb6d6845ff1267f7552b8f7f10ee"
+    },
+    {
+      "url": "https://meusensia.com.br/lojas/pr/londrina/",
+      "source": "SITEMAPS",
+      "targetPath": "/lojas/pr/londrina",
+      "id": "057c1ad403a0b87b1a2a668b207e4316933d3fe3"
+    },
+    {
+      "url": "https://meusensia.com.br/lojas/pr/maringa/",
+      "source": "SITEMAPS",
+      "targetPath": "/lojas/pr/maringa",
+      "id": "2e165be552460843e3ab0697d8f0f83fc89b2dbb"
+    },
+    {
+      "url": "https://meusensia.com.br/lojas/rj/",
+      "source": "SITEMAPS",
+      "targetPath": "/lojas/rj",
+      "id": "ac54440d8665d843d78139496b3ae020f9dc2950"
+    },
+    {
+      "url": "https://meusensia.com.br/lojas/rj/rio-de-janeiro/",
+      "source": "SITEMAPS",
+      "targetPath": "/lojas/rj/rio-de-janeiro",
+      "id": "74cf4873f3b2f6d11db17ca1f0a0cf3dad6769d6"
+    },
+    {
+      "url": "https://meusensia.com.br/lojas/sp/",
+      "source": "SITEMAPS",
+      "targetPath": "/lojas/sp",
+      "id": "cd3641dc0af6d8d7d357f251683c33c9dbfa9cf6"
+    },
+    {
+      "url": "https://meusensia.com.br/lojas/sp/campinas/",
+      "source": "SITEMAPS",
+      "targetPath": "/lojas/sp/campinas",
+      "id": "4b3caef8c0f77d8dfe3ca3fe2b2435e78cddcaab"
+    },
+    {
+      "url": "https://meusensia.com.br/lojas/sp/ribeirao-preto/",
+      "source": "SITEMAPS",
+      "targetPath": "/lojas/sp/ribeirao-preto",
+      "id": "83bbd1a378491d36716549abb336164b3d9727a5"
+    },
+    {
+      "url": "https://meusensia.com.br/mes/maio/",
+      "source": "SITEMAPS",
+      "targetPath": "/mes/maio",
+      "id": "d7805d1983b11d3f47965ca4b6106f81275df42c"
+    },
+    {
+      "url": "https://meusensia.com.br/mes/novembro/",
+      "source": "SITEMAPS",
+      "targetPath": "/mes/novembro",
+      "id": "4fad6c0ba6ea0ea7c92e46edbf9c14aef3482dd1"
+    },
+    {
+      "url": "https://meusensia.com.br/personalizacao/",
+      "source": "SITEMAPS",
+      "targetPath": "/personalizacao",
+      "id": "38d8b7aff612611988731457ad5be11d8752edc7"
+    },
+    {
+      "url": "https://meusensia.com.br/politica-de-privacidade/",
+      "source": "SITEMAPS",
+      "targetPath": "/politica-de-privacidade",
+      "id": "9baaedd5d4bb39e5a48f464e3e1c67901f46b702"
+    },
+    {
+      "url": "https://meusensia.com.br/regulamento/regulamento-seu-sensia-mais-personalizado/",
+      "source": "SITEMAPS",
+      "targetPath": "/regulamento/regulamento-seu-sensia-mais-personalizado",
+      "id": "f716bc73b679f523748e998a98fdfb593eeb7739"
+    },
+    {
+      "url": "https://meusensia.com.br/regulamento/sensia-ponta-negra-campanha-promocional-30-mil-do-seu-jeito-e-do-seu-estilo/",
+      "source": "SITEMAPS",
+      "targetPath": "/regulamento/sensia-ponta-negra-campanha-promocional-30-mil-do-seu-jeito-e-do-seu-estilo",
+      "id": "f6b52612ad2abc6e5b09003ae08476bab05b9251"
+    },
+    {
+      "url": "https://meusensia.com.br/regulamentos/",
+      "source": "SITEMAPS",
+      "targetPath": "/regulamentos",
+      "id": "3da5040609eed172a87617f0e81208f2e5a49694"
+    },
+    {
+      "url": "https://mrv.zoom.us/j/98308950146?pwd=xuFfFXmccfFOTWHWEpnZ0feZVwpcMv.1",
+      "source": "SITEMAPS",
+      "targetPath": "/j/98308950146",
+      "id": "a0e5bf7119cacbbb7fb1e82ebebbec7a9b701405"
+    },
+    {
+      "url": "https://skylineip.s3-sa-east-1.amazonaws.com/Tour+Virtual/SENSIA/PAMPULHA/index.htm?utm_source=sms&utm_medium=sms&utm_campaign=301_MGBEL5F_SMS_P_5a74f2_250724_S_IN_PR_tourpampA",
+      "source": "SITEMAPS",
+      "targetPath": "/tour-virtual/sensia/pampulha/index",
+      "id": "e839b19ed64ad7851a81ddf630d3408cb5e73820"
+    },
+    {
+      "url": "https://skylineip.s3-sa-east-1.amazonaws.com/Tour+Virtual/SENSIA/PAMPULHA/index.htm?utm_source=sms&utm_medium=sms&utm_campaign=301_MGBEL5F_SMS_P_5a74f2_250724_S_IN_PR_tourpampB",
+      "source": "SITEMAPS",
+      "targetPath": "/tour-virtual/sensia/pampulha/index",
+      "id": "1d7c1fbda868fd033c9f3c581e1360b9c0a5ac6f"
+    },
+    {
+      "url": "https://skylineip.s3.sa-east-1.amazonaws.com/Tour+Virtual/SENSIA/Botanico+Ribeir%C3%A3o+Preto/index.htm?utm_source=sms&utm_medium=sms&utm_campaign=610_SPRIBD2_SMS_P_76ec70_130824_S_IN_PR_bottour2",
+      "source": "SITEMAPS",
+      "targetPath": "/tour-virtual/sensia/botanico-ribeir-o-preto/index",
+      "id": "8a2062fc8945ff3c08857765ad691b2aa2e73c2a"
+    },
+    {
+      "url": "https://skylineip.s3.sa-east-1.amazonaws.com/Tour+Virtual/SENSIA/Campinas+Galleria/index.htm?utm_source=sms&utm_medium=sms&utm_campaign=203_SPCAME1_SMS_P_d8a6d5_250724_S_IN_PR_galleriaB",
+      "source": "SITEMAPS",
+      "targetPath": "/tour-virtual/sensia/campinas-galleria/index",
+      "id": "44b2d4f8387636bc8b92aa6b8b46fcaec6025b2b"
+    },
+    {
+      "url": "https://skylineip.s3.sa-east-1.amazonaws.com/Tour+Virtual/SENSIA/Ponta+Negra/index.htm?utm_source=sms&utm_medium=sms&utm_campaign=106_AMMANA2_SMS_P_59ED7D_280624_S_IN_PR_tourA",
+      "source": "SITEMAPS",
+      "targetPath": "/tour-virtual/sensia/ponta-negra/index",
+      "id": "fd6e69883b56021e13d79e44eb8883d2837bc426"
+    },
+    {
+      "url": "https://skylineip.s3.sa-east-1.amazonaws.com/Tour+Virtual/SENSIA/Ponta+Negra/index.htm?utm_source=sms&utm_medium=sms&utm_campaign=106_AMMANA2_SMS_P_59ED7D_280624_S_IN_PR_tourB",
+      "source": "SITEMAPS",
+      "targetPath": "/tour-virtual/sensia/ponta-negra/index",
+      "id": "f3512afb442f5814eb9d3d3615a310999bfc18b2"
+    },
+    {
+      "url": "https://skylineip.s3.sa-east-1.amazonaws.com/Tour+Virtual/SENSIA/Ponta+Negra+Obras/index.htm",
+      "source": "SITEMAPS",
+      "targetPath": "/tour-virtual/sensia/ponta-negra-obras/index",
+      "id": "660a17efec69c5e72fdde02227938a3060aff5ff"
+    },
+    {
+      "url": "https://sonharemorar.mrv.com.br/como-dar-entrada-em-um-apartamento/",
+      "source": "SITEMAPS",
+      "targetPath": "/como-dar-entrada-em-um-apartamento",
+      "id": "486012075bdde850378e0a6c9475f07d221b7a02"
+    },
+    {
+      "url": "https://sonharemorar.mrv.com.br/financiamento-de-imoveis-na-planta/",
+      "source": "SITEMAPS",
+      "targetPath": "/financiamento-de-imoveis-na-planta",
+      "id": "f8bbbec785da054cda4c11541070480836ddaa0e"
+    },
+    {
+      "url": "https://sympla.queue-it.net/?c=sympla&e=symplavisitorpeak&ver=javascript-4.0.0&cver=223&man=Sympla%20Prod%20-%20Action&enqueuetoken=eyJ0eXAiOiJRVDEiLCJlbmMiOiJBRVMyNTYiLCJpc3MiOjE3NDc5MjI1OTk0OTAsImV4cCI6MTc0NzkyMjgzOTQ5MCwidGkiOiI2ZTM5MjkwNS1kNzc5LTQ2MTEtOTYxMC02MmUyMGMzMTY3Y2MiLCJjIjoic3ltcGxhIiwiZSI6InN5bXBsYXZpc2l0b3JwZWFrIiwiaXAiOiIyMC4xNjkuMjI5LjM4In0.o8cf6WDxDV4D0K46AJLg5A.RaN7_nBVm1ZOdPdUNZa134_jji3FEdBQW9ObTH_xnhM&t=https%3A%2F%2Fwww.sympla.com.br%2Fevento%2Fsensia-galleria-obra-aberta-a-visitacao%2F2866297&kupver=cloudflare-4.0.0",
+      "source": "SITEMAPS",
+      "targetPath": "/index",
+      "id": "8ff7d1a9bc3904c5db4043eb21246f9254c1149a"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "SITEMAPS",
+    "logger": {}
+  },
+  "extractionErrors": [
+    {
+      "url": "https://meusensia.com.br/imovel/vila-do-sol%20?utm_source=sms&utm_medium=sms&utm_campaign=405_CEFORD8_SMS_P_A73E45_200624_S_IN_PR_rviladosol",
+      "status": "301 Moved Permanently Redirect: https://meusensia.com.br/imovel/vila-do-sol/?utm_source=sms&utm_medium=sms&utm_campaign=405_CEFORD8_SMS_P_A73E45_200624_S_IN_PR_rviladosol"
+    },
+    {
+      "url": "https://meusensia.com.br/u/pesquisa-lazer-sensia/",
+      "status": "302 Found Redirect: https://31ot59x3g81.typeform.com/to/hDAyB1Cj"
+    },
+    {
+      "url": "https://meusensia.com.br/u/sensia-solarium/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5531991841438&amp;text=Oi%21+Gostaria+de+mais+informa%C3%A7%C3%B5es+sobre+os+im%C3%B3veis+Sensia."
+    },
+    {
+      "url": "https://meusensia.com.br/u/sensia-bh/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5531991841438&amp;text=Ol%C3%A1%20gostaria%20de%20saber%20mais%20sobre%20os%20im%C3%B3veis%20Sensia%20em%20Belo%20Horizonte."
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e146695/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5531991841438&text=Ol%C3%A1!%20Tenho%20interesse%20em%20um%20Sensia!%20"
+    },
+    {
+      "url": "https://meusensia.com.br/u/aurora/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5544999689823&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20o%20Sensia%20Aurora"
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5571981540069&amp;text=Ol%C3%A1%2C%20recebi%20um%20SMS%20com%20convite%20para%20um%20caf%C3%A9%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20im%C3%B3veis%20Sensia."
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5571981540069&amp;text=Ol%C3%A1%2C%20recebi%20um%20SMS%20com%20convite%20para%20um%20caf%C3%A9%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20im%C3%B3veis%20Sensia."
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5571981540069&amp;text=Ol%C3%A1%2C%20recebi%20um%20SMS%20com%20convite%20para%20um%20caf%C3%A9%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20im%C3%B3veis%20Sensia."
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5571981540069&amp;text=Ol%C3%A1%2C%20recebi%20um%20SMS%20com%20convite%20para%20um%20caf%C3%A9%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20im%C3%B3veis%20Sensia."
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5571981540069&amp;text=Ol%C3%A1%2C%20recebi%20um%20SMS%20com%20convite%20para%20um%20caf%C3%A9%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20im%C3%B3veis%20Sensia."
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5571981540069&amp;text=Ol%C3%A1%2C%20recebi%20um%20SMS%20com%20convite%20para%20um%20caf%C3%A9%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20im%C3%B3veis%20Sensia."
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5571981540069&amp;text=Ol%C3%A1%2C%20recebi%20um%20SMS%20com%20convite%20para%20um%20caf%C3%A9%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20im%C3%B3veis%20Sensia."
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5571981540069&amp;text=Ol%C3%A1%2C%20recebi%20um%20SMS%20com%20convite%20para%20um%20caf%C3%A9%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20im%C3%B3veis%20Sensia."
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5571981540069&amp;text=Ol%C3%A1%2C%20recebi%20um%20SMS%20com%20convite%20para%20um%20caf%C3%A9%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20im%C3%B3veis%20Sensia."
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5571981540069&amp;text=Ol%C3%A1%2C%20recebi%20um%20SMS%20com%20convite%20para%20um%20caf%C3%A9%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20im%C3%B3veis%20Sensia."
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5571981540069&amp;text=Ol%C3%A1%2C%20recebi%20um%20SMS%20com%20convite%20para%20um%20caf%C3%A9%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20im%C3%B3veis%20Sensia."
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5571981540069&amp;text=Ol%C3%A1%2C%20recebi%20um%20SMS%20com%20convite%20para%20um%20caf%C3%A9%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20im%C3%B3veis%20Sensia."
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5571981540069&amp;text=Ol%C3%A1%2C%20recebi%20um%20SMS%20com%20convite%20para%20um%20caf%C3%A9%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20im%C3%B3veis%20Sensia."
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5571981540069&amp;text=Ol%C3%A1%2C%20recebi%20um%20SMS%20com%20convite%20para%20um%20caf%C3%A9%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20im%C3%B3veis%20Sensia."
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5571981540069&amp;text=Ol%C3%A1%2C%20recebi%20um%20SMS%20com%20convite%20para%20um%20caf%C3%A9%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20im%C3%B3veis%20Sensia."
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5571981540069&amp;text=Ol%C3%A1%2C%20recebi%20um%20SMS%20com%20convite%20para%20um%20caf%C3%A9%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20im%C3%B3veis%20Sensia."
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5571981540069&amp;text=Ol%C3%A1%2C%20recebi%20um%20SMS%20com%20convite%20para%20um%20caf%C3%A9%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20im%C3%B3veis%20Sensia."
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5571981540069&amp;text=Ol%C3%A1%2C%20recebi%20um%20SMS%20com%20convite%20para%20um%20caf%C3%A9%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20im%C3%B3veis%20Sensia."
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5571981540069&amp;text=Ol%C3%A1%2C%20recebi%20um%20SMS%20com%20convite%20para%20um%20caf%C3%A9%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20im%C3%B3veis%20Sensia."
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5571981540069&amp;text=Ol%C3%A1%2C%20recebi%20um%20SMS%20com%20convite%20para%20um%20caf%C3%A9%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20im%C3%B3veis%20Sensia."
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5571981540069&amp;text=Ol%C3%A1%2C%20recebi%20um%20SMS%20com%20convite%20para%20um%20caf%C3%A9%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20im%C3%B3veis%20Sensia."
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5571981540069&amp;text=Ol%C3%A1%2C%20recebi%20um%20SMS%20com%20convite%20para%20um%20caf%C3%A9%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20im%C3%B3veis%20Sensia."
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5571981540069&amp;text=Ol%C3%A1%2C%20recebi%20um%20SMS%20com%20convite%20para%20um%20caf%C3%A9%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20im%C3%B3veis%20Sensia."
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5571981540069&amp;text=Ol%C3%A1%2C%20recebi%20um%20SMS%20com%20convite%20para%20um%20caf%C3%A9%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20im%C3%B3veis%20Sensia."
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5571981540069&amp;text=Ol%C3%A1%2C%20recebi%20um%20SMS%20com%20convite%20para%20um%20caf%C3%A9%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20im%C3%B3veis%20Sensia."
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5571981540069&amp;text=Ol%C3%A1%2C%20recebi%20um%20SMS%20com%20convite%20para%20um%20caf%C3%A9%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20im%C3%B3veis%20Sensia."
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5571981540069&amp;text=Ol%C3%A1%2C%20recebi%20um%20SMS%20com%20convite%20para%20um%20caf%C3%A9%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20im%C3%B3veis%20Sensia."
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5571981540069&amp;text=Ol%C3%A1%2C%20recebi%20um%20SMS%20com%20convite%20para%20um%20caf%C3%A9%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20im%C3%B3veis%20Sensia."
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5571981540069&amp;text=Ol%C3%A1%2C%20recebi%20um%20SMS%20com%20convite%20para%20um%20caf%C3%A9%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20im%C3%B3veis%20Sensia."
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5571981540069&amp;text=Ol%C3%A1%2C%20recebi%20um%20SMS%20com%20convite%20para%20um%20caf%C3%A9%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20im%C3%B3veis%20Sensia."
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5571981540069&amp;text=Ol%C3%A1%2C%20recebi%20um%20SMS%20com%20convite%20para%20um%20caf%C3%A9%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20im%C3%B3veis%20Sensia."
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5571981540069&amp;text=Ol%C3%A1%2C%20recebi%20um%20SMS%20com%20convite%20para%20um%20caf%C3%A9%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20im%C3%B3veis%20Sensia."
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5571981540069&amp;text=Ol%C3%A1%2C%20recebi%20um%20SMS%20com%20convite%20para%20um%20caf%C3%A9%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20im%C3%B3veis%20Sensia."
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5571981540069&amp;text=Ol%C3%A1%2C%20recebi%20um%20SMS%20com%20convite%20para%20um%20caf%C3%A9%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20im%C3%B3veis%20Sensia."
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5571981540069&amp;text=Ol%C3%A1%2C%20recebi%20um%20SMS%20com%20convite%20para%20um%20caf%C3%A9%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20im%C3%B3veis%20Sensia."
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5571981540069&amp;text=Ol%C3%A1%2C%20recebi%20um%20SMS%20com%20convite%20para%20um%20caf%C3%A9%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20im%C3%B3veis%20Sensia."
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5571981540069&amp;text=Ol%C3%A1%2C%20recebi%20um%20SMS%20com%20convite%20para%20um%20caf%C3%A9%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20im%C3%B3veis%20Sensia."
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5571981540069&amp;text=Ol%C3%A1%2C%20recebi%20um%20SMS%20com%20convite%20para%20um%20caf%C3%A9%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20im%C3%B3veis%20Sensia."
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5571981540069&amp;text=Ol%C3%A1%2C%20recebi%20um%20SMS%20com%20convite%20para%20um%20caf%C3%A9%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20im%C3%B3veis%20Sensia."
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5571981540069&amp;text=Ol%C3%A1%2C%20recebi%20um%20SMS%20com%20convite%20para%20um%20caf%C3%A9%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20im%C3%B3veis%20Sensia."
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5571981540069&amp;text=Ol%C3%A1%2C%20recebi%20um%20SMS%20com%20convite%20para%20um%20caf%C3%A9%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20im%C3%B3veis%20Sensia."
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5571981540069&amp;text=Ol%C3%A1%2C%20recebi%20um%20SMS%20com%20convite%20para%20um%20caf%C3%A9%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20im%C3%B3veis%20Sensia."
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5571981540069&amp;text=Ol%C3%A1%2C%20recebi%20um%20SMS%20com%20convite%20para%20um%20caf%C3%A9%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20im%C3%B3veis%20Sensia."
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5571981540069&amp;text=Ol%C3%A1%2C%20recebi%20um%20SMS%20com%20convite%20para%20um%20caf%C3%A9%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20im%C3%B3veis%20Sensia."
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5571981540069&amp;text=Ol%C3%A1%2C%20recebi%20um%20SMS%20com%20convite%20para%20um%20caf%C3%A9%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20im%C3%B3veis%20Sensia."
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5571981540069&amp;text=Ol%C3%A1%2C%20recebi%20um%20SMS%20com%20convite%20para%20um%20caf%C3%A9%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20im%C3%B3veis%20Sensia."
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5571981540069&amp;text=Ol%C3%A1%2C%20recebi%20um%20SMS%20com%20convite%20para%20um%20caf%C3%A9%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20im%C3%B3veis%20Sensia."
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5571981540069&amp;text=Ol%C3%A1%2C%20recebi%20um%20SMS%20com%20convite%20para%20um%20caf%C3%A9%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20im%C3%B3veis%20Sensia."
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5571981540069&amp;text=Ol%C3%A1%2C%20recebi%20um%20SMS%20com%20convite%20para%20um%20caf%C3%A9%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20im%C3%B3veis%20Sensia."
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5571981540069&amp;text=Ol%C3%A1%2C%20recebi%20um%20SMS%20com%20convite%20para%20um%20caf%C3%A9%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20im%C3%B3veis%20Sensia."
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5571981540069&amp;text=Ol%C3%A1%2C%20recebi%20um%20SMS%20com%20convite%20para%20um%20caf%C3%A9%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20im%C3%B3veis%20Sensia."
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5571981540069&amp;text=Ol%C3%A1%2C%20recebi%20um%20SMS%20com%20convite%20para%20um%20caf%C3%A9%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20im%C3%B3veis%20Sensia."
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5571981540069&amp;text=Ol%C3%A1%2C%20recebi%20um%20SMS%20com%20convite%20para%20um%20caf%C3%A9%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20im%C3%B3veis%20Sensia."
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5571981540069&amp;text=Ol%C3%A1%2C%20recebi%20um%20SMS%20com%20convite%20para%20um%20caf%C3%A9%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20im%C3%B3veis%20Sensia."
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5571981540069&amp;text=Ol%C3%A1%2C%20recebi%20um%20SMS%20com%20convite%20para%20um%20caf%C3%A9%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20im%C3%B3veis%20Sensia."
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5571981540069&amp;text=Ol%C3%A1%2C%20recebi%20um%20SMS%20com%20convite%20para%20um%20caf%C3%A9%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20im%C3%B3veis%20Sensia."
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5571981540069&amp;text=Ol%C3%A1%2C%20recebi%20um%20SMS%20com%20convite%20para%20um%20caf%C3%A9%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20im%C3%B3veis%20Sensia."
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5571981540069&amp;text=Ol%C3%A1%2C%20recebi%20um%20SMS%20com%20convite%20para%20um%20caf%C3%A9%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20im%C3%B3veis%20Sensia."
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5571981540069&amp;text=Ol%C3%A1%2C%20recebi%20um%20SMS%20com%20convite%20para%20um%20caf%C3%A9%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20im%C3%B3veis%20Sensia."
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5571981540069&amp;text=Ol%C3%A1%2C%20recebi%20um%20SMS%20com%20convite%20para%20um%20caf%C3%A9%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20im%C3%B3veis%20Sensia."
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5571981540069&amp;text=Ol%C3%A1%2C%20recebi%20um%20SMS%20com%20convite%20para%20um%20caf%C3%A9%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20im%C3%B3veis%20Sensia."
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5571981540069&amp;text=Ol%C3%A1%2C%20recebi%20um%20SMS%20com%20convite%20para%20um%20caf%C3%A9%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20im%C3%B3veis%20Sensia."
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5571981540069&amp;text=Ol%C3%A1%2C%20recebi%20um%20SMS%20com%20convite%20para%20um%20caf%C3%A9%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20im%C3%B3veis%20Sensia."
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5571981540069&amp;text=Ol%C3%A1%2C%20recebi%20um%20SMS%20com%20convite%20para%20um%20caf%C3%A9%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20im%C3%B3veis%20Sensia."
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5571981540069&amp;text=Ol%C3%A1%2C%20recebi%20um%20SMS%20com%20convite%20para%20um%20caf%C3%A9%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20im%C3%B3veis%20Sensia."
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5571981540069&amp;text=Ol%C3%A1%2C%20recebi%20um%20SMS%20com%20convite%20para%20um%20caf%C3%A9%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20im%C3%B3veis%20Sensia."
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5571981540069&amp;text=Ol%C3%A1%2C%20recebi%20um%20SMS%20com%20convite%20para%20um%20caf%C3%A9%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20im%C3%B3veis%20Sensia."
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5571981540069&amp;text=Ol%C3%A1%2C%20recebi%20um%20SMS%20com%20convite%20para%20um%20caf%C3%A9%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20im%C3%B3veis%20Sensia."
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send?phone=5571981540069&amp;text=Ol%C3%A1%2C%20recebi%20um%20SMS%20com%20convite%20para%20um%20caf%C3%A9%20e%20gostaria%20de%20saber%20mais%20sobre%20os%20im%C3%B3veis%20Sensia."
+    },
+    {
+      "url": "https://wa.me/+5519994915995?text=Ol%C3%A1,%20recebi%20um%20SMS%20sobre%20o%20Sensia%20em%20Campinas%20%20e%20gostaria%20de%20saber%20mais",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send/?phone=%2B5519994915995&text=Ol%C3%A1%2C+recebi+um+SMS+sobre+o+Sensia+em+Campinas++e+gostaria+de+saber+mais&type=phone_number&app_absent=0"
+    },
+    {
+      "url": "https://wa.me/+5531991841438?text=Ol%C3%A1,%20recebi%20um%20SMS%20e%20gostaria%20de%20saber%20mais%20do%20evento%20exclusivo%20do%20pr%C3%B3ximo%20s%C3%A1bado",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send/?phone=%2B5531991841438&text=Ol%C3%A1%2C+recebi+um+SMS+e+gostaria+de+saber+mais+do+evento+exclusivo+do+pr%C3%B3ximo+s%C3%A1bado&type=phone_number&app_absent=0"
+    },
+    {
+      "url": "https://wa.me/+5531991841438?text=Recebi%20um%20SMS%20sobre%20o%20lan%C3%A7amento%20da%20Fase%20II%20do%20Sensia%20Solarium%20e%20queria%20saber%20mais%20informa%C3%A7%C3%B5es.",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send/?phone=%2B5531991841438&text=Recebi+um+SMS+sobre+o+lan%C3%A7amento+da+Fase+II+do+Sensia+Solarium+e+queria+saber+mais+informa%C3%A7%C3%B5es.&type=phone_number&app_absent=0"
+    },
+    {
+      "url": "https://wa.me/+5571981540069?text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20o%20evento.",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send/?phone=%2B5571981540069&text=Ol%C3%A1%2C+gostaria+de+saber+mais+sobre+o+evento.&type=phone_number&app_absent=0"
+    },
+    {
+      "url": "https://wa.me/+5571981540069?text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20o%20evento.",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send/?phone=%2B5571981540069&text=Ol%C3%A1%2C+gostaria+de+saber+mais+sobre+o+evento.&type=phone_number&app_absent=0"
+    },
+    {
+      "url": "https://wa.me/5511999705832?text=Ol%C3%A1%2C+recebi+um+SMS+e+gostaria+de+ter+mais+informa%C3%A7%C3%B5es+sobre+a+Sensia",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send/?phone=5511999705832&text=Ol%C3%A1%2C+recebi+um+SMS+e+gostaria+de+ter+mais+informa%C3%A7%C3%B5es+sobre+a+Sensia&type=phone_number&app_absent=0"
+    },
+    {
+      "url": "https://meusensia.com.br/u/pbotanico/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send/?phone=5516982260280&text=Gostaria+de+saber+mais+informacoes+dos+imoveis+Sensia.&type=phone_number&app_absent=0"
+    },
+    {
+      "url": "https://wa.me/5516982440803?text=Ol%C3%A1%2C+recebi+um+SMS+e+gostaria+de+ter+mais+informa%C3%A7%C3%B5es+sobre+a+Sensia",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send/?phone=5516982440803&text=Ol%C3%A1%2C+recebi+um+SMS+e+gostaria+de+ter+mais+informa%C3%A7%C3%B5es+sobre+a+Sensia&type=phone_number&app_absent=0"
+    },
+    {
+      "url": "https://wa.me/5519991682417?text=Ol%C3%A1%2C+recebi+um+SMS+e+gostaria+de+ter+mais+informa%C3%A7%C3%B5es+sobre+a+Sensia",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send/?phone=5519991682417&text=Ol%C3%A1%2C+recebi+um+SMS+e+gostaria+de+ter+mais+informa%C3%A7%C3%B5es+sobre+a+Sensia&type=phone_number&app_absent=0"
+    },
+    {
+      "url": "https://wa.me/5519994915995?text=Ol%C3%A1%2C+recebi+um+SMS+e+gostaria+de+ter+mais+informa%C3%A7%C3%B5es+sobre+a+Sensia",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send/?phone=5519994915995&text=Ol%C3%A1%2C+recebi+um+SMS+e+gostaria+de+ter+mais+informa%C3%A7%C3%B5es+sobre+a+Sensia&type=phone_number&app_absent=0"
+    },
+    {
+      "url": "https://wa.me/5519994915995?text=Recebi%20uma%20SMS%20e%20quero%20saber%20mais%20sobre%20o%20ITBI%20e%20Registro%20gr%C3%A1tis%20no%20Sensia%20Taquaral.",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send/?phone=5519994915995&text=Recebi+uma+SMS+e+quero+saber+mais+sobre+o+ITBI+e+Registro+gr%C3%A1tis+no+Sensia+Taquaral.&type=phone_number&app_absent=0"
+    },
+    {
+      "url": "https://wa.me/5519994915995?text=Recebi%20uma%20SMS%20sobre%20a%20Rodada%20de%20Neg%C3%B3cios%20e%20gostaria%20de%20saber%20mais.",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send/?phone=5519994915995&text=Recebi+uma+SMS+sobre+a+Rodada+de+Neg%C3%B3cios+e+gostaria+de+saber+mais.&type=phone_number&app_absent=0"
+    },
+    {
+      "url": "https://wa.me/5522974001865?text=Ol%C3%A1%2C+recebi+um+SMS+e+gostaria+de+ter+mais+informa%C3%A7%C3%B5es+sobre+a+Sensia",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send/?phone=5522974001865&text=Ol%C3%A1%2C+recebi+um+SMS+e+gostaria+de+ter+mais+informa%C3%A7%C3%B5es+sobre+a+Sensia&type=phone_number&app_absent=0"
+    },
+    {
+      "url": "https://wa.me/5522974001865?text=Ola%2C%20recebi%20SMS%20da%20Sensia%20com%20%20condi%C3%A7%C3%B5es%20exclusivas%2C%20%20para%20alunos%20de%20Beach%20Tennis!",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send/?phone=5522974001865&text=Ola%2C+recebi+SMS+da+Sensia+com++condi%C3%A7%C3%B5es+exclusivas%2C++para+alunos+de+Beach+Tennis%21&type=phone_number&app_absent=0"
+    },
+    {
+      "url": "https://wa.me/5522974001865?text=Ola%2C%20recebi%20SMS%20da%20Sensia%20com%20as%20condi%C3%A7%C3%B5es%20exclusivas%2C%20%20para%20alunos%20da%20academia%20Pimenta!",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send/?phone=5522974001865&text=Ola%2C+recebi+SMS+da+Sensia+com+as+condi%C3%A7%C3%B5es+exclusivas%2C++para+alunos+da+academia+Pimenta%21&type=phone_number&app_absent=0"
+    },
+    {
+      "url": "https://wa.me/5522974001865?text=Ola%2C%20recebi%20SMS%20do%20Sensia%20Barra%2C%20com%20as%20condi%C3%A7%C3%B5es%20do%20m%C3%AAs%20de%20outubro%2C%20quero%20saber%20mais!",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send/?phone=5522974001865&text=Ola%2C+recebi+SMS+do+Sensia+Barra%2C+com+as+condi%C3%A7%C3%B5es+do+m%C3%AAs+de+outubro%2C+quero+saber+mais%21&type=phone_number&app_absent=0"
+    },
+    {
+      "url": "https://wa.me/5522974001865?text=Ola%2Crecebi%20SMS%20da%20Sensia%2C%20sou%20aluno%20de%20Beach%20tennis%20Nadal%2C%20quero%20saber%20mais!",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send/?phone=5522974001865&text=Ola%2Crecebi+SMS+da+Sensia%2C+sou+aluno+de+Beach+tennis+Nadal%2C+quero+saber+mais%21&type=phone_number&app_absent=0"
+    },
+    {
+      "url": "https://meusensia.com.br/u/sensia-sofia/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send/?phone=553175778000&amp;text=Ol%C3%A1%21+Quero+receber+informa%C3%A7%C3%B5es+sobre+um+im%C3%B3vel+Sensia."
+    },
+    {
+      "url": "https://meusensia.com.br/u/sms1a/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send/?phone=553175778000&amp;text=Ol%C3%A1%2C%20recebi%20um%20sms%20e%20quero%20saber%20mais%20sobre%20os%20im%C3%B3veis%20%C3%A0%20venda%20de%20Sensia&amp;utm_source=sms&amp;utm_medium=sms&amp;utm_campaign=900_BRNAC0_SMS_P_SEMEMP_031024_S_IN_PR_Sms1TestA"
+    },
+    {
+      "url": "https://meusensia.com.br/u/sms1b/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send/?phone=553175778000&amp;text=Ol%C3%A1%2C%20recebi%20um%20sms%20e%20quero%20saber%20mais%20sobre%20os%20im%C3%B3veis%20%C3%A0%20venda%20de%20Sensia&amp;utm_source=sms&amp;utm_medium=sms&amp;utm_campaign=900_BRNAC0_SMS_P_SEMEMP_031024_S_IN_PR_Sms1TestB"
+    },
+    {
+      "url": "https://meusensia.com.br/u/sms4a/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send/?phone=553175778000&amp;text=Ol%C3%A1%2C%20recebi%20um%20sms%20e%20quero%20saber%20mais%20sobre%20os%20im%C3%B3veis%20%C3%A0%20venda%20de%20Sensia&amp;utm_source=sms&amp;utm_medium=sms&amp;utm_campaign=900_BRNAC0_SMS_P_SEMEMP_031024_S_IN_PR_Sms4TestA"
+    },
+    {
+      "url": "https://meusensia.com.br/u/whats/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send/?phone=553175778000&text=Ol%C3%A1%21+Quero+receber+informa%C3%A7%C3%B5es+sobre+um+im%C3%B3vel+Sensia.&type=phone_number&app_absent=0"
+    },
+    {
+      "url": "https://wa.me/553175778000?text=Ol%C3%A1%2C+recebi+um+SMS+e+gostaria+de+ter+mais+informa%C3%A7%C3%B5es+sobre+a+Sensia",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send/?phone=553175778000&text=Ol%C3%A1%2C+recebi+um+SMS+e+gostaria+de+ter+mais+informa%C3%A7%C3%B5es+sobre+a+Sensia&type=phone_number&app_absent=0"
+    },
+    {
+      "url": "https://wa.me/5531991841438?text=Oi!%20Gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20im%C3%B3veis%20Sensia.",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send/?phone=5531991841438&text=Oi%21+Gostaria+de+mais+informa%C3%A7%C3%B5es+sobre+im%C3%B3veis+Sensia.&type=phone_number&app_absent=0"
+    },
+    {
+      "url": "https://wa.me/5531991841438?text=Ol%C3%A1%2C+recebi+um+E-mail+e+gostaria+de+ter+mais+informa%C3%A7%C3%B5es+sobre+a+Sensia",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send/?phone=5531991841438&text=Ol%C3%A1%2C+recebi+um+E-mail+e+gostaria+de+ter+mais+informa%C3%A7%C3%B5es+sobre+a+Sensia&type=phone_number&app_absent=0"
+    },
+    {
+      "url": "https://wa.me/5531991841438?text=Ol%C3%A1%2C+recebi+um+SMS+e+gostaria+de+ter+mais+informa%C3%A7%C3%B5es+sobre+a+Sensia",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send/?phone=5531991841438&text=Ol%C3%A1%2C+recebi+um+SMS+e+gostaria+de+ter+mais+informa%C3%A7%C3%B5es+sobre+a+Sensia&type=phone_number&app_absent=0"
+    },
+    {
+      "url": "https://wa.me/5541992820535?text=Ol%C3%A1%2C%20eu%20estava%20na%20corrida%20do%20dia%2024%20e%20gostaria%20de%20saber%20mais%20sobre%20o%20Sensia%20Horizon.",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send/?phone=5541992820535&text=Ol%C3%A1%2C+eu+estava+na+corrida+do+dia+24+e+gostaria+de+saber+mais+sobre+o+Sensia+Horizon.&type=phone_number&app_absent=0"
+    },
+    {
+      "url": "https://wa.me/5541992820535?text=Ol%C3%A1%2C%20recebi%20um%20flyer%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20o%20Sensia%20Horizon.",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send/?phone=5541992820535&text=Ol%C3%A1%2C+recebi+um+flyer+e+gostaria+de+mais+informa%C3%A7%C3%B5es+sobre+o+Sensia+Horizon.&type=phone_number&app_absent=0"
+    },
+    {
+      "url": "https://wa.me/5541995354286?text=Ol%C3%A1%2C+recebi+um+SMS+e+gostaria+de+ter+mais+informa%C3%A7%C3%B5es+sobre+a+Sensia",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send/?phone=5541995354286&text=Ol%C3%A1%2C+recebi+um+SMS+e+gostaria+de+ter+mais+informa%C3%A7%C3%B5es+sobre+a+Sensia&type=phone_number&app_absent=0"
+    },
+    {
+      "url": "https://wa.me/5543999816078?text=Ol%C3%A1%2C+recebi+um+SMS+e+gostaria+de+ter+mais+informa%C3%A7%C3%B5es+sobre+a+Sensia",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send/?phone=5543999816078&text=Ol%C3%A1%2C+recebi+um+SMS+e+gostaria+de+ter+mais+informa%C3%A7%C3%B5es+sobre+a+Sensia&type=phone_number&app_absent=0"
+    },
+    {
+      "url": "https://wa.me/5544998341615?text=Ol%C3%A1%2C+recebi+um+SMS+e+gostaria+de+ter+mais+informa%C3%A7%C3%B5es+sobre+a+Sensia",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send/?phone=5544998341615&text=Ol%C3%A1%2C+recebi+um+SMS+e+gostaria+de+ter+mais+informa%C3%A7%C3%B5es+sobre+a+Sensia&type=phone_number&app_absent=0"
+    },
+    {
+      "url": "https://meusensia.com.br/u/sensia-salvador/",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send/?phone=5571981540069&amp;text=Ol%C3%A1,%20gostaria%20de%20reservar%20a%20minha%20presen%C3%A7a%20no%20evento."
+    },
+    {
+      "url": "https://wa.me/5571981540069?text=Ol%C3%A1%2C+recebi+um+SMS+e+gostaria+de+ter+mais+informa%C3%A7%C3%B5es+sobre+a+Sensia",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send/?phone=5571981540069&text=Ol%C3%A1%2C+recebi+um+SMS+e+gostaria+de+ter+mais+informa%C3%A7%C3%B5es+sobre+a+Sensia&type=phone_number&app_absent=0"
+    },
+    {
+      "url": "https://wa.me/5571988818888?text=Ol%C3%A1%2C+recebi+um+SMS+e+gostaria+de+ter+mais+informa%C3%A7%C3%B5es+sobre+a+Sensia",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send/?phone=5571988818888&text=Ol%C3%A1%2C+recebi+um+SMS+e+gostaria+de+ter+mais+informa%C3%A7%C3%B5es+sobre+a+Sensia&type=phone_number&app_absent=0"
+    },
+    {
+      "url": "https://wa.me/5592996150218?text=Ol%C3%A1%2C%20%20conheci%20a%20Sensia%20na%20Engenheiro%20do%20Caf%C3%A9%2C%20gostaria%20de%20saber%20mais%20sobre%20a%20Black%20November%20Sensia%20Ponta%20Negra.",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send/?phone=5592996150218&text=Ol%C3%A1%2C++conheci+a+Sensia+na+Engenheiro+do+Caf%C3%A9%2C+gostaria+de+saber+mais+sobre+a+Black+November+Sensia+Ponta+Negra.&type=phone_number&app_absent=0"
+    },
+    {
+      "url": "https://wa.me/5592996150218?text=Ol%C3%A1%2C%20%20gostaria%20de%20saber%20mais%20sobre%20a%20Black%20November%20Sensia%20Ponta%20Negra.",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send/?phone=5592996150218&text=Ol%C3%A1%2C++gostaria+de+saber+mais+sobre+a+Black+November+Sensia+Ponta+Negra.&type=phone_number&app_absent=0"
+    },
+    {
+      "url": "https://wa.me/5592996150218?text=Ol%C3%A1%2C%20%20gostaria%20de%20saber%20mais%20sobre%20a%20Black%20November%20Sensia%20Ponta%20Negra.",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send/?phone=5592996150218&text=Ol%C3%A1%2C++gostaria+de+saber+mais+sobre+a+Black+November+Sensia+Ponta+Negra.&type=phone_number&app_absent=0"
+    },
+    {
+      "url": "https://wa.me/5592996150218?text=Ol%C3%A1%2C%20%20Sou%20Colaborador%20Caloi%2C%20gostaria%20de%20saber%20mais%20sobre%20a%20Black%20November%20Sensia%20Ponta%20Negra.",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send/?phone=5592996150218&text=Ol%C3%A1%2C++Sou+Colaborador+Caloi%2C+gostaria+de+saber+mais+sobre+a+Black+November+Sensia+Ponta+Negra.&type=phone_number&app_absent=0"
+    },
+    {
+      "url": "https://wa.me/5592996150218?text=Ol%C3%A1%2C+recebi+um+SMS+e+gostaria+de+ter+mais+informa%C3%A7%C3%B5es+sobre+a+Sensia",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send/?phone=5592996150218&text=Ol%C3%A1%2C+recebi+um+SMS+e+gostaria+de+ter+mais+informa%C3%A7%C3%B5es+sobre+a+Sensia&type=phone_number&app_absent=0"
+    },
+    {
+      "url": "https://wa.me/5592996150218?text=Ola%2C%20recebi%20SMS%20da%20Sensia%20com%20%20condi%C3%A7%C3%B5es%20exclusivas%20de%20outubro%20para%20Sensia%20Ponta%20Negra%20.",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send/?phone=5592996150218&text=Ola%2C+recebi+SMS+da+Sensia+com++condi%C3%A7%C3%B5es+exclusivas+de+outubro+para+Sensia+Ponta+Negra+.&type=phone_number&app_absent=0"
+    },
+    {
+      "url": "https://wa.me/5592996150218?text=Ola%20gostaria%20de%20saber%20mais%20sobre%20sensia%20e%20sua%20condi%C3%A7%C3%B5es%20de%20natal.",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send/?phone=5592996150218&text=Ola+gostaria+de+saber+mais+sobre+sensia+e+sua+condi%C3%A7%C3%B5es+de+natal.&type=phone_number&app_absent=0"
+    },
+    {
+      "url": "https://wa.me/5592996150218?text=Passei%20no%20Stand%20da%20Sensia%20no%20shopping%20e%20agora%20gostaria%20de%20saber%20mais%20sobre%20a%20a%C3%A7%C3%A3o%20compra%20e%20ganhe%2030mil%20em%20voucher%20de%20compra%20da%20via%20varejo.",
+      "status": "302 Found Redirect: https://api.whatsapp.com/send/?phone=5592996150218&text=Passei+no+Stand+da+Sensia+no+shopping+e+agora+gostaria+de+saber+mais+sobre+a+a%C3%A7%C3%A3o+compra+e+ganhe+30mil+em+voucher+de+compra+da+via+varejo.&type=phone_number&app_absent=0"
+    },
+    {
+      "url": "https://meusensia.com.br/u/tv_sp/",
+      "status": "302 Found Redirect: https://meusensia.com.br/imovel/botanico/"
+    },
+    {
+      "url": "https://meusensia.com.br/u/site-sensia-aurora/",
+      "status": "302 Found Redirect: https://meusensia.com.br/imovel/sensia-aurora/#formulario-cadastro"
+    },
+    {
+      "url": "https://meusensia.com.br/u/177704/",
+      "status": "302 Found Redirect: https://meusensia.com.br/imovel/sensia-fiusa-view/"
+    },
+    {
+      "url": "https://meusensia.com.br/u/tapume-fiusa-views/",
+      "status": "302 Found Redirect: https://meusensia.com.br/imovel/sensia-fiusa-view/?utm_source=Tapume&amp;utm_medium=Tapume2025&amp;utm_campaign=sensia_fiusa_lancamento&amp;utm_id=Tapume"
+    },
+    {
+      "url": "https://meusensia.com.br/u/gran-bosque/",
+      "status": "302 Found Redirect: https://meusensia.com.br/imovel/sensia-gran-bosque/"
+    },
+    {
+      "url": "https://meusensia.com.br/u/revista-anuario-imobiliario/",
+      "status": "302 Found Redirect: https://meusensia.com.br/imovel/sensia-horizon/"
+    },
+    {
+      "url": "https://meusensia.com.br/u/sensia-jardim-2/",
+      "status": "302 Found Redirect: https://meusensia.com.br/imovel/sensia-jardim/"
+    },
+    {
+      "url": "https://meusensia.com.br/u/solarium/",
+      "status": "302 Found Redirect: https://meusensia.com.br/imovel/sensia-solarium/"
+    },
+    {
+      "url": "https://meusensia.com.br/u/sensia-swiss-garden/",
+      "status": "302 Found Redirect: https://meusensia.com.br/imovel/sensia-swiss-garden/"
+    },
+    {
+      "url": "https://meusensia.com.br/u/swiss-garden-folder/",
+      "status": "302 Found Redirect: https://meusensia.com.br/imovel/sensia-swiss-garden/?utm_source=Folder&utm_medium=Folder2025&utm_campaign=sensia_swiss_garden_lancamento&utm_id=Folder"
+    },
+    {
+      "url": "https://meusensia.com.br/u/rviladosol/",
+      "status": "302 Found Redirect: https://meusensia.com.br/imovel/vila-do-sol%20?utm_source=sms&utm_medium=sms&utm_campaign=405_CEFORD8_SMS_P_A73E45_200624_S_IN_PR_rviladosol"
+    },
+    {
+      "url": "https://meusensia.com.br/u/lojas-sensia/",
+      "status": "302 Found Redirect: https://meusensia.com.br/lojas/"
+    },
+    {
+      "url": "https://meusensia.com.br/u/lavielojab/",
+      "status": "302 Found Redirect: https://meusensia.com.br/lojas/?utm_source=sms&utm_medium=sms&utm_campaign=106_AMMANA2_SMS_P_41757e_130924_S_IN_PR_lavielojaB"
+    },
+    {
+      "url": "https://meusensia.com.br/u/smspa3/",
+      "status": "302 Found Redirect: https://meusensia.com.br/lojas/?utm_source=sms&utm_medium=sms&utm_campaign=301_MGBEL5F_SMS_P_5a74f2_250724_S_IN_PR_lojapampA"
+    },
+    {
+      "url": "https://meusensia.com.br/u/bot2_a/",
+      "status": "302 Found Redirect: https://meusensia.com.br/lojas/?utm_source=sms&utm_medium=sms&utm_campaign=610_SPRIBD2_SMS_P_76ec70_130824_S_IN_PR_botloja"
+    },
+    {
+      "url": "https://meusensia.com.br/u/sbpe-grupo-elite/",
+      "status": "302 Found Redirect: https://mrv.zoom.us/j/98308950146?pwd=xuFfFXmccfFOTWHWEpnZ0feZVwpcMv.1"
+    },
+    {
+      "url": "https://meusensia.com.br/u/smsga2/",
+      "status": "302 Found Redirect: https://skylineip.s3-sa-east-1.amazonaws.com/Tour+Virtual/SENSIA/PAMPULHA/index.htm?utm_source=sms&utm_medium=sms&utm_campaign=301_MGBEL5F_SMS_P_5a74f2_250724_S_IN_PR_tourpampA"
+    },
+    {
+      "url": "https://meusensia.com.br/u/smspa4/",
+      "status": "302 Found Redirect: https://skylineip.s3-sa-east-1.amazonaws.com/Tour+Virtual/SENSIA/PAMPULHA/index.htm?utm_source=sms&utm_medium=sms&utm_campaign=301_MGBEL5F_SMS_P_5a74f2_250724_S_IN_PR_tourpampB"
+    },
+    {
+      "url": "https://meusensia.com.br/u/egdmzev7/",
+      "status": "302 Found Redirect: https://skylineip.s3.sa-east-1.amazonaws.com/Tour+Virtual/SENSIA/Botanico+Ribeir%C3%A3o+Preto/index.htm?utm_source=sms&utm_medium=sms&utm_campaign=610_SPRIBD2_SMS_P_76ec70_130824_S_IN_PR_bottour2"
+    },
+    {
+      "url": "https://meusensia.com.br/u/smsga/",
+      "status": "302 Found Redirect: https://skylineip.s3.sa-east-1.amazonaws.com/Tour+Virtual/SENSIA/Campinas+Galleria/index.htm?utm_source=sms&utm_medium=sms&utm_campaign=203_SPCAME1_SMS_P_d8a6d5_250724_S_IN_PR_galleriaB"
+    },
+    {
+      "url": "https://meusensia.com.br/u/toura/",
+      "status": "302 Found Redirect: https://skylineip.s3.sa-east-1.amazonaws.com/Tour+Virtual/SENSIA/Ponta+Negra/index.htm?utm_source=sms&utm_medium=sms&utm_campaign=106_AMMANA2_SMS_P_59ED7D_280624_S_IN_PR_tourA"
+    },
+    {
+      "url": "https://meusensia.com.br/u/toura/",
+      "status": "302 Found Redirect: https://skylineip.s3.sa-east-1.amazonaws.com/Tour+Virtual/SENSIA/Ponta+Negra/index.htm?utm_source=sms&utm_medium=sms&utm_campaign=106_AMMANA2_SMS_P_59ED7D_280624_S_IN_PR_tourA"
+    },
+    {
+      "url": "https://meusensia.com.br/u/tourb/",
+      "status": "302 Found Redirect: https://skylineip.s3.sa-east-1.amazonaws.com/Tour+Virtual/SENSIA/Ponta+Negra/index.htm?utm_source=sms&utm_medium=sms&utm_campaign=106_AMMANA2_SMS_P_59ED7D_280624_S_IN_PR_tourB"
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669-6/",
+      "status": "302 Found Redirect: https://skylineip.s3.sa-east-1.amazonaws.com/Tour+Virtual/SENSIA/Ponta+Negra+Obras/index.htm"
+    },
+    {
+      "url": "https://meusensia.com.br/u/teste-amaro/",
+      "status": "302 Found Redirect: https://sonharemorar.mrv.com.br/como-dar-entrada-em-um-apartamento/"
+    },
+    {
+      "url": "https://meusensia.com.br/u/teste-amaro-2/",
+      "status": "302 Found Redirect: https://sonharemorar.mrv.com.br/financiamento-de-imoveis-na-planta/"
+    },
+    {
+      "url": "https://www.sympla.com.br/evento/sensia-galleria-obra-aberta-a-visitacao/2866297",
+      "status": "302 Found Redirect: https://sympla.queue-it.net/?c=sympla&e=symplavisitorpeak&ver=javascript-4.0.0&cver=223&man=Sympla%20Prod%20-%20Action&enqueuetoken=eyJ0eXAiOiJRVDEiLCJlbmMiOiJBRVMyNTYiLCJpc3MiOjE3NDc5MjI1ODE3NzgsImV4cCI6MTc0NzkyMjgyMTc3OCwidGkiOiIxMWZhYTllMi0xZjRmLTQwZWYtYWY4YS1lYTgwZDU5YmRkOGYiLCJjIjoic3ltcGxhIiwiZSI6InN5bXBsYXZpc2l0b3JwZWFrIiwiaXAiOiIyMC4xNjkuMjI5LjM4In0.yI5sFD6PKpoTTt6DaQcPrg.7S-Z75as0uPNhhoS5AVBU5-zkQV7sWBg4ojI6d81ITI&t=https%3A%2F%2Fwww.sympla.com.br%2Fevento%2Fsensia-galleria-obra-aberta-a-visitacao%2F2866297&kupver=cloudflare-4.0.0"
+    },
+    {
+      "url": "https://www.sympla.com.br/evento/sensia-galleria-obra-aberta-a-visitacao/2866297",
+      "status": "302 Found Redirect: https://sympla.queue-it.net/?c=sympla&e=symplavisitorpeak&ver=javascript-4.0.0&cver=223&man=Sympla%20Prod%20-%20Action&enqueuetoken=eyJ0eXAiOiJRVDEiLCJlbmMiOiJBRVMyNTYiLCJpc3MiOjE3NDc5MjI1OTg2OTUsImV4cCI6MTc0NzkyMjgzODY5NSwidGkiOiJjY2Y0YjQ4ZC0xZWExLTQyMTUtOWEzYS1jMDlmYmZlZDJhYzciLCJjIjoic3ltcGxhIiwiZSI6InN5bXBsYXZpc2l0b3JwZWFrIiwiaXAiOiIyMC4xNjkuMjI5LjM4In0.bIua3Mr2TleU8-3TEq-J8A.C8nf0MlHhjcrFiZiA0AgDYPLwe8WqBVuG-rRnQQNifw&t=https%3A%2F%2Fwww.sympla.com.br%2Fevento%2Fsensia-galleria-obra-aberta-a-visitacao%2F2866297&kupver=cloudflare-4.0.0"
+    },
+    {
+      "url": "https://www.sympla.com.br/evento/sensia-galleria-obra-aberta-a-visitacao/2866297",
+      "status": "302 Found Redirect: https://sympla.queue-it.net/?c=sympla&e=symplavisitorpeak&ver=javascript-4.0.0&cver=223&man=Sympla%20Prod%20-%20Action&enqueuetoken=eyJ0eXAiOiJRVDEiLCJlbmMiOiJBRVMyNTYiLCJpc3MiOjE3NDc5MjI1OTg4MzQsImV4cCI6MTc0NzkyMjgzODgzNCwidGkiOiI1ZTM3NWUwMC1hN2EzLTQwNzEtOTRjNy0zM2YxMDE3NDk0MTUiLCJjIjoic3ltcGxhIiwiZSI6InN5bXBsYXZpc2l0b3JwZWFrIiwiaXAiOiIyMC4xNjkuMjI5LjM4In0.H5cXHV-L7fa0ZKhc828RLw.Gd0fp8f471VP3YY4QHHiuTNh7rxxeXAcLGH5AzQF9kc&t=https%3A%2F%2Fwww.sympla.com.br%2Fevento%2Fsensia-galleria-obra-aberta-a-visitacao%2F2866297&kupver=cloudflare-4.0.0"
+    },
+    {
+      "url": "https://www.sympla.com.br/evento/sensia-galleria-obra-aberta-a-visitacao/2866297",
+      "status": "302 Found Redirect: https://sympla.queue-it.net/?c=sympla&e=symplavisitorpeak&ver=javascript-4.0.0&cver=223&man=Sympla%20Prod%20-%20Action&enqueuetoken=eyJ0eXAiOiJRVDEiLCJlbmMiOiJBRVMyNTYiLCJpc3MiOjE3NDc5MjI1OTg5NjMsImV4cCI6MTc0NzkyMjgzODk2MywidGkiOiJiZjZiYzBmMC0zNzc3LTQyNTgtOTQyNC01Y2FjNGMzN2EzZDAiLCJjIjoic3ltcGxhIiwiZSI6InN5bXBsYXZpc2l0b3JwZWFrIiwiaXAiOiIyMC4xNjkuMjI5LjM4In0.TvmIgrAhKdTU4xFvWzHmtQ.sHjcJFWHH6jSYYmqjWYx5aYafZxdB30yksIjWK7InrY&t=https%3A%2F%2Fwww.sympla.com.br%2Fevento%2Fsensia-galleria-obra-aberta-a-visitacao%2F2866297&kupver=cloudflare-4.0.0"
+    },
+    {
+      "url": "https://www.sympla.com.br/evento/sensia-galleria-obra-aberta-a-visitacao/2866297",
+      "status": "302 Found Redirect: https://sympla.queue-it.net/?c=sympla&e=symplavisitorpeak&ver=javascript-4.0.0&cver=223&man=Sympla%20Prod%20-%20Action&enqueuetoken=eyJ0eXAiOiJRVDEiLCJlbmMiOiJBRVMyNTYiLCJpc3MiOjE3NDc5MjI1OTk0OTAsImV4cCI6MTc0NzkyMjgzOTQ5MCwidGkiOiI2ZTM5MjkwNS1kNzc5LTQ2MTEtOTYxMC02MmUyMGMzMTY3Y2MiLCJjIjoic3ltcGxhIiwiZSI6InN5bXBsYXZpc2l0b3JwZWFrIiwiaXAiOiIyMC4xNjkuMjI5LjM4In0.o8cf6WDxDV4D0K46AJLg5A.RaN7_nBVm1ZOdPdUNZa134_jji3FEdBQW9ObTH_xnhM&t=https%3A%2F%2Fwww.sympla.com.br%2Fevento%2Fsensia-galleria-obra-aberta-a-visitacao%2F2866297&kupver=cloudflare-4.0.0"
+    },
+    {
+      "url": "https://www.sympla.com.br/evento/sensia-galleria-obra-aberta-a-visitacao/2866297",
+      "status": "302 Found Redirect: https://sympla.queue-it.net/?c=sympla&e=symplavisitorpeak&ver=javascript-4.0.0&cver=223&man=Sympla%20Prod%20-%20Action&enqueuetoken=eyJ0eXAiOiJRVDEiLCJlbmMiOiJBRVMyNTYiLCJpc3MiOjE3NDc5MjI1OTkxMDgsImV4cCI6MTc0NzkyMjgzOTEwOCwidGkiOiJmMTQ3ZDU2Mi1lM2FlLTQwOGUtOGVkYy04NDJhMzFlOWMyYjQiLCJjIjoic3ltcGxhIiwiZSI6InN5bXBsYXZpc2l0b3JwZWFrIiwiaXAiOiIyMC4xNjkuMjI5LjM4In0.UzyI_DACaYsF-4E9EJ8VnQ.gjiruY0hJUFcbGowikL9HBNdnlg22XoyCj2snLKHCpc&t=https%3A%2F%2Fwww.sympla.com.br%2Fevento%2Fsensia-galleria-obra-aberta-a-visitacao%2F2866297&kupver=cloudflare-4.0.0"
+    },
+    {
+      "url": "https://www.sympla.com.br/evento/sensia-galleria-obra-aberta-a-visitacao/2866297",
+      "status": "302 Found Redirect: https://sympla.queue-it.net/?c=sympla&e=symplavisitorpeak&ver=javascript-4.0.0&cver=223&man=Sympla%20Prod%20-%20Action&enqueuetoken=eyJ0eXAiOiJRVDEiLCJlbmMiOiJBRVMyNTYiLCJpc3MiOjE3NDc5MjI1OTkyMjgsImV4cCI6MTc0NzkyMjgzOTIyOCwidGkiOiJjMzllNzE2Ny02MDk2LTQwOGItYWQ1OC00OTZhNGRjNDU0M2EiLCJjIjoic3ltcGxhIiwiZSI6InN5bXBsYXZpc2l0b3JwZWFrIiwiaXAiOiIyMC4xNjkuMjI5LjM4In0.p5LhEi4FIik1vzP6XP-Qgg.mJOprhssGgpN4hjHHPiXvPOQeNA_v2sJQ-EF92OdhSg&t=https%3A%2F%2Fwww.sympla.com.br%2Fevento%2Fsensia-galleria-obra-aberta-a-visitacao%2F2866297&kupver=cloudflare-4.0.0"
+    },
+    {
+      "url": "https://www.sympla.com.br/evento/sensia-galleria-obra-aberta-a-visitacao/2866297",
+      "status": "302 Found Redirect: https://sympla.queue-it.net/?c=sympla&e=symplavisitorpeak&ver=javascript-4.0.0&cver=223&man=Sympla%20Prod%20-%20Action&enqueuetoken=eyJ0eXAiOiJRVDEiLCJlbmMiOiJBRVMyNTYiLCJpc3MiOjE3NDc5MjI1OTkzNjgsImV4cCI6MTc0NzkyMjgzOTM2OCwidGkiOiI1MGU5ODkzYy01Nzc5LTRlODAtOGVlMi04YmYwOGEwMDM1MTAiLCJjIjoic3ltcGxhIiwiZSI6InN5bXBsYXZpc2l0b3JwZWFrIiwiaXAiOiIyMC4xNjkuMjI5LjM4In0.doPgwo84YaJmuMSX4r6v4A._xGObKsB9kiHGSYj0_9VU_kBAJToDFvIrR9TFN_YoGA&t=https%3A%2F%2Fwww.sympla.com.br%2Fevento%2Fsensia-galleria-obra-aberta-a-visitacao%2F2866297&kupver=cloudflare-4.0.0"
+    },
+    {
+      "url": "https://meusensia.com.br/u/sensia-campinas/",
+      "status": "302 Found Redirect: https://wa.me/+5519994915995?text=Ol%C3%A1,%20recebi%20um%20SMS%20sobre%20o%20Sensia%20em%20Campinas%20%20e%20gostaria%20de%20saber%20mais"
+    },
+    {
+      "url": "https://meusensia.com.br/u/sensia-bh-evento/",
+      "status": "302 Found Redirect: https://wa.me/+5531991841438?text=Ol%C3%A1,%20recebi%20um%20SMS%20e%20gostaria%20de%20saber%20mais%20do%20evento%20exclusivo%20do%20pr%C3%B3ximo%20s%C3%A1bado"
+    },
+    {
+      "url": "https://meusensia.com.br/u/solarium-fase-2/",
+      "status": "302 Found Redirect: https://wa.me/+5531991841438?text=Recebi%20um%20SMS%20sobre%20o%20lan%C3%A7amento%20da%20Fase%20II%20do%20Sensia%20Solarium%20e%20queria%20saber%20mais%20informa%C3%A7%C3%B5es."
+    },
+    {
+      "url": "https://meusensia.com.br/u/sensia-gastro-5/",
+      "status": "302 Found Redirect: https://wa.me/+5571981540069?text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20o%20evento."
+    },
+    {
+      "url": "https://meusensia.com.br/u/sensia-gastro-house-1/",
+      "status": "302 Found Redirect: https://wa.me/+5571981540069?text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20o%20evento."
+    },
+    {
+      "url": "https://meusensia.com.br/u/sensia-maceio-sms/",
+      "status": "302 Found Redirect: https://wa.me/5511999705832?text=Ol%C3%A1%2C+recebi+um+SMS+e+gostaria+de+ter+mais+informa%C3%A7%C3%B5es+sobre+a+Sensia"
+    },
+    {
+      "url": "https://meusensia.com.br/u/sensia-rib-preto-sms/",
+      "status": "302 Found Redirect: https://wa.me/5516982440803?text=Ol%C3%A1%2C+recebi+um+SMS+e+gostaria+de+ter+mais+informa%C3%A7%C3%B5es+sobre+a+Sensia"
+    },
+    {
+      "url": "https://meusensia.com.br/u/sensia-campinas-1-sms/",
+      "status": "302 Found Redirect: https://wa.me/5519991682417?text=Ol%C3%A1%2C+recebi+um+SMS+e+gostaria+de+ter+mais+informa%C3%A7%C3%B5es+sobre+a+Sensia"
+    },
+    {
+      "url": "https://meusensia.com.br/u/sensia-campinas2-sms/",
+      "status": "302 Found Redirect: https://wa.me/5519994915995?text=Ol%C3%A1%2C+recebi+um+SMS+e+gostaria+de+ter+mais+informa%C3%A7%C3%B5es+sobre+a+Sensia"
+    },
+    {
+      "url": "https://meusensia.com.br/u/itbi-gratis-sensia-taquaral/",
+      "status": "302 Found Redirect: https://wa.me/5519994915995?text=Recebi%20uma%20SMS%20e%20quero%20saber%20mais%20sobre%20o%20ITBI%20e%20Registro%20gr%C3%A1tis%20no%20Sensia%20Taquaral."
+    },
+    {
+      "url": "https://meusensia.com.br/u/rodada-negocio-sensia-campinas/",
+      "status": "302 Found Redirect: https://wa.me/5519994915995?text=Recebi%20uma%20SMS%20sobre%20a%20Rodada%20de%20Neg%C3%B3cios%20e%20gostaria%20de%20saber%20mais."
+    },
+    {
+      "url": "https://meusensia.com.br/u/sensia-rj-sms/",
+      "status": "302 Found Redirect: https://wa.me/5522974001865?text=Ol%C3%A1%2C+recebi+um+SMS+e+gostaria+de+ter+mais+informa%C3%A7%C3%B5es+sobre+a+Sensia"
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669-4/",
+      "status": "302 Found Redirect: https://wa.me/5522974001865?text=Ola%2C%20recebi%20SMS%20da%20Sensia%20com%20%20condi%C3%A7%C3%B5es%20exclusivas%2C%20%20para%20alunos%20de%20Beach%20Tennis!"
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669-5/",
+      "status": "302 Found Redirect: https://wa.me/5522974001865?text=Ola%2C%20recebi%20SMS%20da%20Sensia%20com%20as%20condi%C3%A7%C3%B5es%20exclusivas%2C%20%20para%20alunos%20da%20academia%20Pimenta!"
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669-2/",
+      "status": "302 Found Redirect: https://wa.me/5522974001865?text=Ola%2C%20recebi%20SMS%20do%20Sensia%20Barra%2C%20com%20as%20condi%C3%A7%C3%B5es%20do%20m%C3%AAs%20de%20outubro%2C%20quero%20saber%20mais!"
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669-3/",
+      "status": "302 Found Redirect: https://wa.me/5522974001865?text=Ola%2Crecebi%20SMS%20da%20Sensia%2C%20sou%20aluno%20de%20Beach%20tennis%20Nadal%2C%20quero%20saber%20mais!"
+    },
+    {
+      "url": "https://meusensia.com.br/u/sensia-nacional-sms/",
+      "status": "302 Found Redirect: https://wa.me/553175778000?text=Ol%C3%A1%2C+recebi+um+SMS+e+gostaria+de+ter+mais+informa%C3%A7%C3%B5es+sobre+a+Sensia"
+    },
+    {
+      "url": "https://meusensia.com.br/u/psolarium/",
+      "status": "302 Found Redirect: https://wa.me/5531991841438?text=Oi!%20Gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20im%C3%B3veis%20Sensia."
+    },
+    {
+      "url": "https://meusensia.com.br/u/s-way/",
+      "status": "302 Found Redirect: https://wa.me/5531991841438?text=Ol%C3%A1%2C+recebi+um+E-mail+e+gostaria+de+ter+mais+informa%C3%A7%C3%B5es+sobre+a+Sensia"
+    },
+    {
+      "url": "https://meusensia.com.br/u/sensia-bh-sms/",
+      "status": "302 Found Redirect: https://wa.me/5531991841438?text=Ol%C3%A1%2C+recebi+um+SMS+e+gostaria+de+ter+mais+informa%C3%A7%C3%B5es+sobre+a+Sensia"
+    },
+    {
+      "url": "https://meusensia.com.br/u/sensia-horizon-qr/",
+      "status": "302 Found Redirect: https://wa.me/5541992820535?text=Ol%C3%A1%2C%20eu%20estava%20na%20corrida%20do%20dia%2024%20e%20gostaria%20de%20saber%20mais%20sobre%20o%20Sensia%20Horizon."
+    },
+    {
+      "url": "https://meusensia.com.br/u/flyer-sensia-horizon/",
+      "status": "302 Found Redirect: https://wa.me/5541992820535?text=Ol%C3%A1%2C%20recebi%20um%20flyer%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20o%20Sensia%20Horizon."
+    },
+    {
+      "url": "https://meusensia.com.br/u/sensia-curitiba-sms/",
+      "status": "302 Found Redirect: https://wa.me/5541995354286?text=Ol%C3%A1%2C+recebi+um+SMS+e+gostaria+de+ter+mais+informa%C3%A7%C3%B5es+sobre+a+Sensia"
+    },
+    {
+      "url": "https://meusensia.com.br/u/sensia-londrina/",
+      "status": "302 Found Redirect: https://wa.me/5543999816078?text=Ol%C3%A1%2C+recebi+um+SMS+e+gostaria+de+ter+mais+informa%C3%A7%C3%B5es+sobre+a+Sensia"
+    },
+    {
+      "url": "https://meusensia.com.br/u/sensia-maringa-sms/",
+      "status": "302 Found Redirect: https://wa.me/5544998341615?text=Ol%C3%A1%2C+recebi+um+SMS+e+gostaria+de+ter+mais+informa%C3%A7%C3%B5es+sobre+a+Sensia"
+    },
+    {
+      "url": "https://meusensia.com.br/u/sensia-salvador-sms/",
+      "status": "302 Found Redirect: https://wa.me/5571981540069?text=Ol%C3%A1%2C+recebi+um+SMS+e+gostaria+de+ter+mais+informa%C3%A7%C3%B5es+sobre+a+Sensia"
+    },
+    {
+      "url": "https://meusensia.com.br/u/sensia-fortaleza-sms/",
+      "status": "302 Found Redirect: https://wa.me/5571988818888?text=Ol%C3%A1%2C+recebi+um+SMS+e+gostaria+de+ter+mais+informa%C3%A7%C3%B5es+sobre+a+Sensia"
+    },
+    {
+      "url": "https://meusensia.com.br/u/ponta-negra-eng-cafe/",
+      "status": "302 Found Redirect: https://wa.me/5592996150218?text=Ol%C3%A1%2C%20%20conheci%20a%20Sensia%20na%20Engenheiro%20do%20Caf%C3%A9%2C%20gostaria%20de%20saber%20mais%20sobre%20a%20Black%20November%20Sensia%20Ponta%20Negra."
+    },
+    {
+      "url": "https://meusensia.com.br/u/ponta-negra-cafe/",
+      "status": "302 Found Redirect: https://wa.me/5592996150218?text=Ol%C3%A1%2C%20%20gostaria%20de%20saber%20mais%20sobre%20a%20Black%20November%20Sensia%20Ponta%20Negra."
+    },
+    {
+      "url": "https://meusensia.com.br/u/black-november-ponta-negra/",
+      "status": "302 Found Redirect: https://wa.me/5592996150218?text=Ol%C3%A1%2C%20%20gostaria%20de%20saber%20mais%20sobre%20a%20Black%20November%20Sensia%20Ponta%20Negra."
+    },
+    {
+      "url": "https://meusensia.com.br/u/ponta-negra-caloi/",
+      "status": "302 Found Redirect: https://wa.me/5592996150218?text=Ol%C3%A1%2C%20%20Sou%20Colaborador%20Caloi%2C%20gostaria%20de%20saber%20mais%20sobre%20a%20Black%20November%20Sensia%20Ponta%20Negra."
+    },
+    {
+      "url": "https://meusensia.com.br/u/sensia-manaus-sms/",
+      "status": "302 Found Redirect: https://wa.me/5592996150218?text=Ol%C3%A1%2C+recebi+um+SMS+e+gostaria+de+ter+mais+informa%C3%A7%C3%B5es+sobre+a+Sensia"
+    },
+    {
+      "url": "https://meusensia.com.br/u/ponta-negra-25/",
+      "status": "302 Found Redirect: https://wa.me/5592996150218?text=Ola%20gostaria%20de%20saber%20mais%20sobre%20sensia%20e%20sua%20condi%C3%A7%C3%B5es%20de%20natal."
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669-7/",
+      "status": "302 Found Redirect: https://wa.me/5592996150218?text=Ola%2C%20recebi%20SMS%20da%20Sensia%20com%20%20condi%C3%A7%C3%B5es%20exclusivas%20de%20outubro%20para%20Sensia%20Ponta%20Negra%20."
+    },
+    {
+      "url": "https://meusensia.com.br/u/ponta-negra-stante-manauara/",
+      "status": "302 Found Redirect: https://wa.me/5592996150218?text=Passei%20no%20Stand%20da%20Sensia%20no%20shopping%20e%20agora%20gostaria%20de%20saber%20mais%20sobre%20a%20a%C3%A7%C3%A3o%20compra%20e%20ganhe%2030mil%20em%20voucher%20de%20compra%20da%20via%20varejo."
+    },
+    {
+      "url": "https://meusensia.com.br/u/cafecampinas/",
+      "status": "302 Found Redirect: https://www.sympla.com.br/evento/sensia-galleria-obra-aberta-a-visitacao/2866297"
+    },
+    {
+      "url": "https://www.sympla.com.br/evento/sensia-galleria-obra-aberta-a-visitacao/2866297?queueittoken=e_symplavisitorpeak~ts_1747922778~ce_true~rt_safetynet~h_558936614c108d2597572dd66a6a5944d40e0c5f08269c6e9a3bfde4c20b941e",
+      "status": "302 Found Redirect: https://www.sympla.com.br/evento/sensia-galleria-obra-aberta-a-visitacao/2866297"
+    },
+    {
+      "url": "https://www.sympla.com.br/evento/sensia-galleria-obra-aberta-a-visitacao/2866297?queueittoken=e_symplavisitorpeak~ts_1747922778~ce_true~rt_safetynet~h_558936614c108d2597572dd66a6a5944d40e0c5f08269c6e9a3bfde4c20b941e",
+      "status": "302 Found Redirect: https://www.sympla.com.br/evento/sensia-galleria-obra-aberta-a-visitacao/2866297"
+    },
+    {
+      "url": "https://www.sympla.com.br/evento/sensia-galleria-obra-aberta-a-visitacao/2866297?queueittoken=e_symplavisitorpeak~ts_1747922778~ce_true~rt_safetynet~h_558936614c108d2597572dd66a6a5944d40e0c5f08269c6e9a3bfde4c20b941e",
+      "status": "302 Found Redirect: https://www.sympla.com.br/evento/sensia-galleria-obra-aberta-a-visitacao/2866297"
+    },
+    {
+      "url": "https://www.sympla.com.br/evento/sensia-galleria-obra-aberta-a-visitacao/2866297?queueittoken=e_symplavisitorpeak~ts_1747922779~ce_true~rt_safetynet~h_4219746e8bc6efc62fec2fd8f429c15d48d4ba9037c86282f5eec88f01c82ccf",
+      "status": "302 Found Redirect: https://www.sympla.com.br/evento/sensia-galleria-obra-aberta-a-visitacao/2866297"
+    },
+    {
+      "url": "https://www.sympla.com.br/evento/sensia-galleria-obra-aberta-a-visitacao/2866297?queueittoken=e_symplavisitorpeak~ts_1747922779~ce_true~rt_safetynet~h_4219746e8bc6efc62fec2fd8f429c15d48d4ba9037c86282f5eec88f01c82ccf",
+      "status": "302 Found Redirect: https://www.sympla.com.br/evento/sensia-galleria-obra-aberta-a-visitacao/2866297"
+    },
+    {
+      "url": "https://www.sympla.com.br/evento/sensia-galleria-obra-aberta-a-visitacao/2866297?queueittoken=e_symplavisitorpeak~ts_1747922779~ce_true~rt_safetynet~h_4219746e8bc6efc62fec2fd8f429c15d48d4ba9037c86282f5eec88f01c82ccf",
+      "status": "302 Found Redirect: https://www.sympla.com.br/evento/sensia-galleria-obra-aberta-a-visitacao/2866297"
+    },
+    {
+      "url": "https://www.sympla.com.br/evento/sensia-galleria-obra-aberta-a-visitacao/2866297?queueittoken=e_symplavisitorpeak~ts_1747922779~ce_true~rt_safetynet~h_4219746e8bc6efc62fec2fd8f429c15d48d4ba9037c86282f5eec88f01c82ccf",
+      "status": "302 Found Redirect: https://www.sympla.com.br/evento/sensia-galleria-obra-aberta-a-visitacao/2866297"
+    },
+    {
+      "url": "https://sympla.queue-it.net/?c=sympla&e=symplavisitorpeak&ver=javascript-4.0.0&cver=223&man=Sympla%20Prod%20-%20Action&enqueuetoken=eyJ0eXAiOiJRVDEiLCJlbmMiOiJBRVMyNTYiLCJpc3MiOjE3NDc5MjI1ODE3NzgsImV4cCI6MTc0NzkyMjgyMTc3OCwidGkiOiIxMWZhYTllMi0xZjRmLTQwZWYtYWY4YS1lYTgwZDU5YmRkOGYiLCJjIjoic3ltcGxhIiwiZSI6InN5bXBsYXZpc2l0b3JwZWFrIiwiaXAiOiIyMC4xNjkuMjI5LjM4In0.yI5sFD6PKpoTTt6DaQcPrg.7S-Z75as0uPNhhoS5AVBU5-zkQV7sWBg4ojI6d81ITI&t=https%3A%2F%2Fwww.sympla.com.br%2Fevento%2Fsensia-galleria-obra-aberta-a-visitacao%2F2866297&kupver=cloudflare-4.0.0",
+      "status": "302 Found Redirect: https://www.sympla.com.br/evento/sensia-galleria-obra-aberta-a-visitacao/2866297?queueittoken=e_symplavisitorpeak~ts_1747922778~ce_true~rt_safetynet~h_558936614c108d2597572dd66a6a5944d40e0c5f08269c6e9a3bfde4c20b941e"
+    },
+    {
+      "url": "https://sympla.queue-it.net/?c=sympla&e=symplavisitorpeak&ver=javascript-4.0.0&cver=223&man=Sympla%20Prod%20-%20Action&enqueuetoken=eyJ0eXAiOiJRVDEiLCJlbmMiOiJBRVMyNTYiLCJpc3MiOjE3NDc5MjI1OTg2OTUsImV4cCI6MTc0NzkyMjgzODY5NSwidGkiOiJjY2Y0YjQ4ZC0xZWExLTQyMTUtOWEzYS1jMDlmYmZlZDJhYzciLCJjIjoic3ltcGxhIiwiZSI6InN5bXBsYXZpc2l0b3JwZWFrIiwiaXAiOiIyMC4xNjkuMjI5LjM4In0.bIua3Mr2TleU8-3TEq-J8A.C8nf0MlHhjcrFiZiA0AgDYPLwe8WqBVuG-rRnQQNifw&t=https%3A%2F%2Fwww.sympla.com.br%2Fevento%2Fsensia-galleria-obra-aberta-a-visitacao%2F2866297&kupver=cloudflare-4.0.0",
+      "status": "302 Found Redirect: https://www.sympla.com.br/evento/sensia-galleria-obra-aberta-a-visitacao/2866297?queueittoken=e_symplavisitorpeak~ts_1747922778~ce_true~rt_safetynet~h_558936614c108d2597572dd66a6a5944d40e0c5f08269c6e9a3bfde4c20b941e"
+    },
+    {
+      "url": "https://sympla.queue-it.net/?c=sympla&e=symplavisitorpeak&ver=javascript-4.0.0&cver=223&man=Sympla%20Prod%20-%20Action&enqueuetoken=eyJ0eXAiOiJRVDEiLCJlbmMiOiJBRVMyNTYiLCJpc3MiOjE3NDc5MjI1OTg4MzQsImV4cCI6MTc0NzkyMjgzODgzNCwidGkiOiI1ZTM3NWUwMC1hN2EzLTQwNzEtOTRjNy0zM2YxMDE3NDk0MTUiLCJjIjoic3ltcGxhIiwiZSI6InN5bXBsYXZpc2l0b3JwZWFrIiwiaXAiOiIyMC4xNjkuMjI5LjM4In0.H5cXHV-L7fa0ZKhc828RLw.Gd0fp8f471VP3YY4QHHiuTNh7rxxeXAcLGH5AzQF9kc&t=https%3A%2F%2Fwww.sympla.com.br%2Fevento%2Fsensia-galleria-obra-aberta-a-visitacao%2F2866297&kupver=cloudflare-4.0.0",
+      "status": "302 Found Redirect: https://www.sympla.com.br/evento/sensia-galleria-obra-aberta-a-visitacao/2866297?queueittoken=e_symplavisitorpeak~ts_1747922778~ce_true~rt_safetynet~h_558936614c108d2597572dd66a6a5944d40e0c5f08269c6e9a3bfde4c20b941e"
+    },
+    {
+      "url": "https://sympla.queue-it.net/?c=sympla&e=symplavisitorpeak&ver=javascript-4.0.0&cver=223&man=Sympla%20Prod%20-%20Action&enqueuetoken=eyJ0eXAiOiJRVDEiLCJlbmMiOiJBRVMyNTYiLCJpc3MiOjE3NDc5MjI1OTg5NjMsImV4cCI6MTc0NzkyMjgzODk2MywidGkiOiJiZjZiYzBmMC0zNzc3LTQyNTgtOTQyNC01Y2FjNGMzN2EzZDAiLCJjIjoic3ltcGxhIiwiZSI6InN5bXBsYXZpc2l0b3JwZWFrIiwiaXAiOiIyMC4xNjkuMjI5LjM4In0.TvmIgrAhKdTU4xFvWzHmtQ.sHjcJFWHH6jSYYmqjWYx5aYafZxdB30yksIjWK7InrY&t=https%3A%2F%2Fwww.sympla.com.br%2Fevento%2Fsensia-galleria-obra-aberta-a-visitacao%2F2866297&kupver=cloudflare-4.0.0",
+      "status": "302 Found Redirect: https://www.sympla.com.br/evento/sensia-galleria-obra-aberta-a-visitacao/2866297?queueittoken=e_symplavisitorpeak~ts_1747922779~ce_true~rt_safetynet~h_4219746e8bc6efc62fec2fd8f429c15d48d4ba9037c86282f5eec88f01c82ccf"
+    },
+    {
+      "url": "https://sympla.queue-it.net/?c=sympla&e=symplavisitorpeak&ver=javascript-4.0.0&cver=223&man=Sympla%20Prod%20-%20Action&enqueuetoken=eyJ0eXAiOiJRVDEiLCJlbmMiOiJBRVMyNTYiLCJpc3MiOjE3NDc5MjI1OTkxMDgsImV4cCI6MTc0NzkyMjgzOTEwOCwidGkiOiJmMTQ3ZDU2Mi1lM2FlLTQwOGUtOGVkYy04NDJhMzFlOWMyYjQiLCJjIjoic3ltcGxhIiwiZSI6InN5bXBsYXZpc2l0b3JwZWFrIiwiaXAiOiIyMC4xNjkuMjI5LjM4In0.UzyI_DACaYsF-4E9EJ8VnQ.gjiruY0hJUFcbGowikL9HBNdnlg22XoyCj2snLKHCpc&t=https%3A%2F%2Fwww.sympla.com.br%2Fevento%2Fsensia-galleria-obra-aberta-a-visitacao%2F2866297&kupver=cloudflare-4.0.0",
+      "status": "302 Found Redirect: https://www.sympla.com.br/evento/sensia-galleria-obra-aberta-a-visitacao/2866297?queueittoken=e_symplavisitorpeak~ts_1747922779~ce_true~rt_safetynet~h_4219746e8bc6efc62fec2fd8f429c15d48d4ba9037c86282f5eec88f01c82ccf"
+    },
+    {
+      "url": "https://sympla.queue-it.net/?c=sympla&e=symplavisitorpeak&ver=javascript-4.0.0&cver=223&man=Sympla%20Prod%20-%20Action&enqueuetoken=eyJ0eXAiOiJRVDEiLCJlbmMiOiJBRVMyNTYiLCJpc3MiOjE3NDc5MjI1OTkyMjgsImV4cCI6MTc0NzkyMjgzOTIyOCwidGkiOiJjMzllNzE2Ny02MDk2LTQwOGItYWQ1OC00OTZhNGRjNDU0M2EiLCJjIjoic3ltcGxhIiwiZSI6InN5bXBsYXZpc2l0b3JwZWFrIiwiaXAiOiIyMC4xNjkuMjI5LjM4In0.p5LhEi4FIik1vzP6XP-Qgg.mJOprhssGgpN4hjHHPiXvPOQeNA_v2sJQ-EF92OdhSg&t=https%3A%2F%2Fwww.sympla.com.br%2Fevento%2Fsensia-galleria-obra-aberta-a-visitacao%2F2866297&kupver=cloudflare-4.0.0",
+      "status": "302 Found Redirect: https://www.sympla.com.br/evento/sensia-galleria-obra-aberta-a-visitacao/2866297?queueittoken=e_symplavisitorpeak~ts_1747922779~ce_true~rt_safetynet~h_4219746e8bc6efc62fec2fd8f429c15d48d4ba9037c86282f5eec88f01c82ccf"
+    },
+    {
+      "url": "https://sympla.queue-it.net/?c=sympla&e=symplavisitorpeak&ver=javascript-4.0.0&cver=223&man=Sympla%20Prod%20-%20Action&enqueuetoken=eyJ0eXAiOiJRVDEiLCJlbmMiOiJBRVMyNTYiLCJpc3MiOjE3NDc5MjI1OTkzNjgsImV4cCI6MTc0NzkyMjgzOTM2OCwidGkiOiI1MGU5ODkzYy01Nzc5LTRlODAtOGVlMi04YmYwOGEwMDM1MTAiLCJjIjoic3ltcGxhIiwiZSI6InN5bXBsYXZpc2l0b3JwZWFrIiwiaXAiOiIyMC4xNjkuMjI5LjM4In0.doPgwo84YaJmuMSX4r6v4A._xGObKsB9kiHGSYj0_9VU_kBAJToDFvIrR9TFN_YoGA&t=https%3A%2F%2Fwww.sympla.com.br%2Fevento%2Fsensia-galleria-obra-aberta-a-visitacao%2F2866297&kupver=cloudflare-4.0.0",
+      "status": "302 Found Redirect: https://www.sympla.com.br/evento/sensia-galleria-obra-aberta-a-visitacao/2866297?queueittoken=e_symplavisitorpeak~ts_1747922779~ce_true~rt_safetynet~h_4219746e8bc6efc62fec2fd8f429c15d48d4ba9037c86282f5eec88f01c82ccf"
+    },
+    {
+      "url": "https://meusensia.com.br/u/p_aurora/",
+      "status": "500 Internal Server Error"
+    },
+    {
+      "url": "https://meusensia.com.br/u/pbarra/",
+      "status": "500 Internal Server Error"
+    },
+    {
+      "url": "https://meusensia.com.br/u/pgalleria/",
+      "status": "500 Internal Server Error"
+    },
+    {
+      "url": "https://meusensia.com.br/u/phorizon/",
+      "status": "500 Internal Server Error"
+    },
+    {
+      "url": "https://meusensia.com.br/u/phorizontes/",
+      "status": "500 Internal Server Error"
+    },
+    {
+      "url": "https://meusensia.com.br/u/pluxem/",
+      "status": "500 Internal Server Error"
+    },
+    {
+      "url": "https://meusensia.com.br/u/ppam/",
+      "status": "500 Internal Server Error"
+    },
+    {
+      "url": "https://meusensia.com.br/u/pparis/",
+      "status": "500 Internal Server Error"
+    },
+    {
+      "url": "https://meusensia.com.br/u/pprado/",
+      "status": "500 Internal Server Error"
+    },
+    {
+      "url": "https://meusensia.com.br/u/ppata/",
+      "status": "500 Internal Server Error"
+    },
+    {
+      "url": "https://meusensia.com.br/u/pnegra/",
+      "status": "500 Internal Server Error"
+    },
+    {
+      "url": "https://meusensia.com.br/u/prvdsol/",
+      "status": "500 Internal Server Error"
+    },
+    {
+      "url": "https://meusensia.com.br/u/pserra/",
+      "status": "500 Internal Server Error"
+    },
+    {
+      "url": "https://meusensia.com.br/u/pswiss/",
+      "status": "500 Internal Server Error"
+    },
+    {
+      "url": "https://meusensia.com.br/u/ptaqua/",
+      "status": "500 Internal Server Error"
+    },
+    {
+      "url": "https://meusensia.com.br/u/purban/",
+      "status": "500 Internal Server Error"
+    },
+    {
+      "url": "https://meusensia.com.br/u/pway/",
+      "status": "500 Internal Server Error"
+    },
+    {
+      "url": "https://meusensia.com.br/u/plavie/",
+      "status": "500 Internal Server Error"
+    },
+    {
+      "url": "https://meusensia.com.br/u/youtube/",
+      "status": "500 Internal Server Error"
+    },
+    {
+      "url": "https://meusensia.com.br/u/teste-rdm-marcio-deploy-plugin-finalizado/",
+      "status": "500 Internal Server Error"
+    },
+    {
+      "url": "https://meusensia.com.br/u/captura-black-november/",
+      "status": "500 Internal Server Error"
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669-8/",
+      "status": "500 Internal Server Error"
+    },
+    {
+      "url": "https://meusensia.com.br/u/sensia-encurtador-teste/",
+      "status": "500 Internal Server Error"
+    },
+    {
+      "url": "https://meusensia.com.br/u/whatsapp-black-november/",
+      "status": "500 Internal Server Error"
+    },
+    {
+      "url": "https://meusensia.com.br/u/sensia-pesquisa-de-conteudo/",
+      "status": "500 Internal Server Error"
+    },
+    {
+      "url": "https://meusensia.com.br/u/teste/",
+      "status": "500 Internal Server Error"
+    },
+    {
+      "url": "https://meusensia.com.br/u/maringa/",
+      "status": "500 Internal Server Error"
+    },
+    {
+      "url": "https://meusensia.com.br/u/teste-pos-rdm/",
+      "status": "500 Internal Server Error"
+    },
+    {
+      "url": "https://meusensia.com.br/u/sensia-jardim/",
+      "status": "500 Internal Server Error"
+    },
+    {
+      "url": "https://meusensia.com.br/u/6e14669/",
+      "status": "502 Bad Gateway"
+    }
+  ]
+}
